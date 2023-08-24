@@ -113,42 +113,34 @@ const m005 = new Producto({
 
 const danza1 = new Danza({
     modelo:"Alguno",
-    esLenceria:true,
     imagen:"./media/prendas/baile/bl1.png",
 })
 const danza2 = new Danza({
     modelo:"Alguno",
-    esLenceria:true,
     imagen:"./media/prendas/baile/bl2.png",
 })
 const danza3 = new Danza({
     modelo:"Alguno",
-    esLenceria:true,
     imagen:"./media/prendas/baile/bl3.png",
 })
 const danza4 = new Danza({
     modelo:"Alguno",
-    esLenceria:true,
-    imagen:"./media/prendas/baile/bl4.png",
+    imagen:"./media/prendas/baile/bl4.jpg",
 })
 const danza5 = new Danza({
     modelo:"Alguno",
-    esLenceria:true,
-    imagen:"./media/prendas/baile/bl5.png",
+    imagen:"./media/prendas/baile/bl5.jpg",
 })
 const danza6 = new Danza({
     modelo:"Alguno",
-    esLenceria:true,
-    imagen:"./media/prendas/baile/bl6.png",
+    imagen:"./media/prendas/baile/bl6.jpg",
 })
 const danza7 = new Danza({
     modelo:"Alguno",
-    esLenceria:true,
-    imagen:"./media/prendas/baile/bl7.png",
+    imagen:"./media/prendas/baile/bl7.jpg",
 })
 const danza8 = new Danza({
     modelo:"Alguno",
-    esLenceria:true,
     imagen:"./media/prendas/baile/bl8.png",
 })
 const danza9 = new Danza({
@@ -159,12 +151,12 @@ const danza9 = new Danza({
 const danza10 = new Danza({
     modelo:"Alguno",
     esLenceria:true,
-    imagen:"./media/prendas/baile/bl10.png",
+    imagen:"./media/prendas/baile/bl10.jpg",
 })
 const danza11 = new Danza({
     modelo:"Alguno",
     esLenceria:true,
-    imagen:"./media/prendas/baile/bl11.png",
+    imagen:"./media/prendas/baile/bl11.jpg",
 })
 
 
