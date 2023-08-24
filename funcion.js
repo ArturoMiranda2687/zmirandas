@@ -23,6 +23,7 @@ class Producto{
        modelo,
        talla,
        tela,
+       color,
        descripcion,
        imagen,
        imagen2,
@@ -32,6 +33,7 @@ class Producto{
        this.modelo= modelo,
        this.talla=talla,
        this.tela= tela,
+       this.color = color,
        this.descripcion= descripcion,
        this.imagen=imagen,
        this.imagen2 = imagen2,
@@ -112,16 +114,37 @@ const m005 = new Producto({
 
 
 const danza1 = new Danza({
-    modelo:"Alguno",
+    modelo: "Rosa",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
     imagen:"./media/prendas/baile/bl1.png",
+    imagen2:"",
+    esDanza:"true",
+    esLenceria:"",
 })
 const danza2 = new Danza({
-    modelo:"Alguno",
+    modelo: "Alexa",
+    talla:"L | M | S",
+    tela:"Lycra | Mesh",
+    color:"Negro | Verde",
+    descripcion:"Idoneo para presentaciones, cuenta con cobertura de brazos completa y pedrería",
     imagen:"./media/prendas/baile/bl2.png",
+    imagen2:"",
+    esDanza:"true",
+    esLenceria:"",
 })
 const danza3 = new Danza({
-    modelo:"Alguno",
+    modelo: "Greta",
+    talla:"L | M | S",
+    tela:"Lycra | Algodón",
+    color:"Negro | Turqueza",
+    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
     imagen:"./media/prendas/baile/bl3.png",
+    imagen2:"",
+    esDanza:"true",
+    esLenceria:"",
 })
 const danza4 = new Danza({
     modelo:"Alguno",
