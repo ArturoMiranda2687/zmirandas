@@ -38,15 +38,23 @@ h4{
 p{
     font-size: 1.6rem;
 }
+nav{
+    background-color: black;
+}
 nav ul{
     display: flex;
     gap: 30px;
     justify-content: end;
     margin: 0 30px;
 }
+
 li{
     list-style: none;
     font-size: 1.6rem;
+}
+a{
+    text-decoration: none;
+    color: white;
 }
 
 .flechai{

@@ -70,11 +70,7 @@ class Deportiva extends Producto{
     }
 }
 
-const lence1 = new Lenceria({
-    modelo:"Alguno",
-    esLenceria:true,
-    imagen:"https://pbs.twimg.com/media/EIUk1YzX0AA25qE.jpg",
-})
+
 const m001 = new Producto({
     modelo:"M001",
     talla:"L|M|S",
@@ -110,6 +106,1048 @@ const m005 = new Producto({
     tela:"Blonda",
     descripcion:"A ver que onda pasa cuando metemos más",
     imagen:"https://pbs.twimg.com/media/F2f37jWXcAMmd9p?format=jpg&name=large",
+})
+
+
+
+const lence1 = new Lenceria({
+    modelo:"Alguno",
+    esLenceria:true,
+    imagen:"https://pbs.twimg.com/media/EIUk1YzX0AA25qE.jpg",
+})
+const lence2 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence3 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c1.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence4 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c2.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence5 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c3.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence6 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c4.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence7 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c5.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence8 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c6.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence9 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c7.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence10 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c8.png",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence11 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c9.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence12 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c10.png",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence13 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c11.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence14 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c12.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence15 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c13.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence16 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c14.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence17 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence18 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence19 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence20 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence21 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence22 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence23 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence24 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence25 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence26 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence27 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence28 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence29 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence30 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence31 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence32 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence33 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence34 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence35 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence36 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence37 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence38 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence39 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence40 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence41 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence42 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence43 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence44 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence45 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence46 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence47 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence48 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence49 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence50 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence51 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence52 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence53 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence54 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence55 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence56 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence57 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence58 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence59 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence60 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence61 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence62 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence63 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence64 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence65 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence66 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence67 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence68 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence69 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence70 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence71 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence72 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence73 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence74 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence75 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence76 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence77 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence78 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence79 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence80 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence81 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence82 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence83 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence84 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence85 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence86 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence87 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence88 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence89 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence90 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence91 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence92 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence93 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence94 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence95 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
 })
 
 
@@ -234,17 +1272,17 @@ const danza21 = new Danza({
 const danza22 = new Danza({
     modelo:"Alguno",
     esLenceria:true,
-    imagen:"./media/prendas/baile/bl22.jpg",
+    imagen:"./media/prendas/baile/bl22.png",
 })
 const danza23 = new Danza({
     modelo:"Alguno",
     esLenceria:true,
-    imagen:"./media/prendas/baile/bl23.jpg",
+    imagen:"./media/prendas/baile/bl23.png",
 })
 const danza24 = new Danza({
     modelo:"Alguno",
     esLenceria:true,
-    imagen:"./media/prendas/baile/bl24.jpg",
+    imagen:"./media/prendas/baile/bl24.png",
 })
 const danza25 = new Danza({
     modelo:"Alguno",
@@ -254,25 +1292,123 @@ const danza25 = new Danza({
 const danza26 = new Danza({
     modelo:"Alguno",
     esLenceria:true,
-    imagen:"./media/prendas/baile/bl26.jpg",
+    imagen:"./media/prendas/baile/bl26.png",
 })
 const danza27 = new Danza({
     modelo:"Alguno",
     esLenceria:true,
-    imagen:"./media/prendas/baile/bl27.jpg",
+    imagen:"./media/prendas/baile/bl27.png",
 })
 const danza28 = new Danza({
     modelo:"Alguno",
     esLenceria:true,
-    imagen:"./media/prendas/baile/bl28.jpg",
+    imagen:"./media/prendas/baile/bl28.png",
 })
 
 
-prodcatal.innerHTML += `<h4>${m001.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${m001.imagen}" alt=""></div><p>Tallas disponibles: ${m001.talla}</p><p>Tela: ${m001.tela}</p><p>${m001.descripcion}</p>`
+
  prodcata.innerHTML += `<h4>${m002.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${m002.imagen}" alt=""></div><p>Tallas disponibles: ${m002.talla}</p><p>Tela: ${m002.tela}</p><p>${m002.descripcion}</p>`
  prodcata.innerHTML += `<h4>${m003.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${m003.imagen}" alt=""></div><p>Tallas disponibles: ${m003.talla}</p><p>Tela: ${m003.tela}</p><p>${m003.descripcion}</p>`
  prodcata.innerHTML += `<h4>${m004.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${m004.imagen}" alt=""></div><p>Tallas disponibles: ${m004.talla}</p><p>Tela: ${m004.tela}</p><p>${m004.descripcion}</p>`
  prodcata.innerHTML += `<h4>${lence1.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence1.imagen}" alt=""></div><p>Tallas disponibles: ${lence1.talla}</p><p>Tela: ${lence1.tela}</p><p>${lence1.descripcion}</p>`
+
+
+prodcatal.innerHTML += `<h4>${lence1.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence1.imagen}" alt=""></div><p>Tallas disponibles: ${lence1.talla}</p><p>Tela: ${lence1.tela}</p><p>${lence1.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence2.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence2.imagen}" alt=""></div><p>Tallas disponibles: ${lence2.talla}</p><p>Tela: ${lence2.tela}</p><p>${lence2.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence3.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence3.imagen}" alt=""></div><p>Tallas disponibles: ${lence3.talla}</p><p>Tela: ${lence3.tela}</p><p>${lence3.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence4.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence4.imagen}" alt=""></div><p>Tallas disponibles: ${lence4.talla}</p><p>Tela: ${lence4.tela}</p><p>${lence4.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence5.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence5.imagen}" alt=""></div><p>Tallas disponibles: ${lence5.talla}</p><p>Tela: ${lence5.tela}</p><p>${lence5.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence6.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence6.imagen}" alt=""></div><p>Tallas disponibles: ${lence6.talla}</p><p>Tela: ${lence6.tela}</p><p>${lence6.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence7.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence7.imagen}" alt=""></div><p>Tallas disponibles: ${lence7.talla}</p><p>Tela: ${lence7.tela}</p><p>${lence7.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence8.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence8.imagen}" alt=""></div><p>Tallas disponibles: ${lence8.talla}</p><p>Tela: ${lence8.tela}</p><p>${lence8.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence9.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence9.imagen}" alt=""></div><p>Tallas disponibles: ${lence9.talla}</p><p>Tela: ${lence9.tela}</p><p>${lence9.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence10.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence10.imagen}" alt=""></div><p>Tallas disponibles: ${lence10.talla}</p><p>Tela: ${lence10.tela}</p><p>${lence10.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence11.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence11.imagen}" alt=""></div><p>Tallas disponibles: ${lence11.talla}</p><p>Tela: ${lence11.tela}</p><p>${lence11.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence12.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence12.imagen}" alt=""></div><p>Tallas disponibles: ${lence12.talla}</p><p>Tela: ${lence12.tela}</p><p>${lence12.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence13.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence13.imagen}" alt=""></div><p>Tallas disponibles: ${lence13.talla}</p><p>Tela: ${lence13.tela}</p><p>${lence13.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence14.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence14.imagen}" alt=""></div><p>Tallas disponibles: ${lence14.talla}</p><p>Tela: ${lence14.tela}</p><p>${lence14.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence15.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence15.imagen}" alt=""></div><p>Tallas disponibles: ${lence15.talla}</p><p>Tela: ${lence15.tela}</p><p>${lence15.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence16.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence16.imagen}" alt=""></div><p>Tallas disponibles: ${lence16.talla}</p><p>Tela: ${lence16.tela}</p><p>${lence16.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence17.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence17.imagen}" alt=""></div><p>Tallas disponibles: ${lence17.talla}</p><p>Tela: ${lence17.tela}</p><p>${lence17.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence18.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence18.imagen}" alt=""></div><p>Tallas disponibles: ${lence18.talla}</p><p>Tela: ${lence18.tela}</p><p>${lence18.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence19.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence19.imagen}" alt=""></div><p>Tallas disponibles: ${lence19.talla}</p><p>Tela: ${lence19.tela}</p><p>${lence19.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence20.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence20.imagen}" alt=""></div><p>Tallas disponibles: ${lence20.talla}</p><p>Tela: ${lence20.tela}</p><p>${lence20.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence21.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence21.imagen}" alt=""></div><p>Tallas disponibles: ${lence21.talla}</p><p>Tela: ${lence21.tela}</p><p>${lence21.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence22.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence22.imagen}" alt=""></div><p>Tallas disponibles: ${lence22.talla}</p><p>Tela: ${lence22.tela}</p><p>${lence22.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence23.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence23.imagen}" alt=""></div><p>Tallas disponibles: ${lence23.talla}</p><p>Tela: ${lence23.tela}</p><p>${lence23.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence24.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence24.imagen}" alt=""></div><p>Tallas disponibles: ${lence24.talla}</p><p>Tela: ${lence24.tela}</p><p>${lence24.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+prodcatal.innerHTML += `<h4>${lence.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${lence.imagen}" alt=""></div><p>Tallas disponibles: ${lence.talla}</p><p>Tela: ${lence.tela}</p><p>${lence.descripcion}</p>`
+
+
 
 prodcatadanza.innerHTML += `<h4>${danza1.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${danza1.imagen}" alt=""></div><p>Tallas disponibles: ${danza1.talla}</p><p>Tela: ${danza1.tela}</p><p>${danza1.descripcion}</p>`
 prodcatadanza.innerHTML += `<h4>${danza2.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${danza2.imagen}" alt=""></div><p>Tallas disponibles: ${danza2.talla}</p><p>Tela: ${danza2.tela}</p><p>${danza2.descripcion}</p>`
