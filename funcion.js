@@ -152,7 +152,7 @@ const danza8 = new Danza({
     imagen:"./media/prendas/baile/bl8.png",
 })
 const danza9 = new Danza({
-    modelo:"Alguno",
+    modelo:"Algunas cuantas",
     esLenceria:true,
     imagen:"./media/prendas/baile/bl9.png",
 })
