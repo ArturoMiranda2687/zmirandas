@@ -1409,7 +1409,7 @@ const elas10 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano/e9.png.jpg",
+    imagen:"./media/prendas/elastano/e9.png",
     imagen2:"",
     esDeportiva: "true",
 })
