@@ -3,10 +3,11 @@ const cabecera = document.querySelector('.cabecera')
 const prodcata = document.querySelector('.catalogo')
 const prodcatal = document.querySelector('.catalogol')
 const prodcatadanza = document.querySelector('.catalogodanza')
+const prodcatelas = document.querySelector('.catalogoelas')
 const footer = document.querySelector('footer')
 
 
-menunav.innerHTML +=`<nav><ul>    <li><a href="./lenceria.html">Lenceria</a></li> <li><a href="./danza.html">Danza</a></li>   <li>Pijamas</li>    <li>Conjuntos</li></ul></nav>`
+menunav.innerHTML +=`<nav><ul>    <li><a href="./lenceria.html">Lenceria</a></li> <li><a href="./danza.html">Danza</a></li> <li><a href="./elastano.html">Deportiva</a></li>  <li>Pijamas</li>    <li>Conjuntos</li></ul></nav>`
 cabecera.innerHTML += `<h1>Mir and Da</h1>`
 footer.innerHTML += `<p>Mir & Da a tus órdenes</p><p>55245874 25</p>`
 
@@ -29,6 +30,7 @@ class Producto{
        imagen2,
        esDanza,
        esLenceria,
+       esDeportiva,
    }){
        this.modelo= modelo,
        this.talla=talla,
@@ -38,7 +40,8 @@ class Producto{
        this.imagen=imagen,
        this.imagen2 = imagen2,
        this.esDanza= esDanza,
-       this.esLenceria=esLenceria
+       this.esLenceria=esLenceria,
+       this.esDeportiva = esDeportiva
    }
 }
 
@@ -1307,6 +1310,242 @@ const danza28 = new Danza({
 
 
 
+
+
+
+const elas1 = new Deportiva({
+    modelo: "Greta",
+    talla:"L | M | S",
+    tela:"Lycra | Algodón",
+    color:"Negro | Turqueza",
+    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    imagen:"./media/prendas/elastano/e (2).jpg",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas2 = new Deportiva({
+    modelo: "Greta",
+    talla:"L | M | S",
+    tela:"Lycra | Algodón",
+    color:"Negro | Turqueza",
+    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    imagen:"./media/prendas/elastano/e (2).png",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas3 = new Deportiva({
+    modelo: "Greta",
+    talla:"L | M | S",
+    tela:"Lycra | Algodón",
+    color:"Negro | Turqueza",
+    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    imagen:"./media/prendas/elastano/e (3).jpg",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas4 = new Deportiva({
+    modelo: "Greta",
+    talla:"L | M | S",
+    tela:"Lycra | Algodón",
+    color:"Negro | Turqueza",
+    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    imagen:"./media/prendas/elastano/e (4).png",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas5 = new Deportiva({
+    modelo: "e4jpg",
+    talla:"L | M | S",
+    tela:"Lycra | Algodón",
+    color:"Negro | Turqueza",
+    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    imagen:"./media/prendas/elastano/e (4).jpg",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas6 = new Deportiva({
+    modelo: "Greta",
+    talla:"L | M | S",
+    tela:"Lycra | Algodón",
+    color:"Negro | Turqueza",
+    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    imagen:"./media/prendas/elastano/e (4).jpg",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas7 = new Deportiva({
+    modelo: "Greta",
+    talla:"L | M | S",
+    tela:"Lycra | Algodón",
+    color:"Negro | Turqueza",
+    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    imagen:"./media/prendas/elastano/e (5).png",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas8 = new Deportiva({
+    modelo: "Greta",
+    talla:"L | M | S",
+    tela:"Lycra | Algodón",
+    color:"Negro | Turqueza",
+    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    imagen:"./media/prendas/elastano/e (5).jpg",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas9 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e (6).png",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas10 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e (6).jpg",
+    imagen2:"",
+    esDeportiva: "true",
+})
+////const elas7 = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (7).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas8 = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (8).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+////const elas = new Deportiva({
+////    modelo: "Greta",
+////    talla:"L | M | S",
+////    tela:"Lycra | Algodón",
+////    color:"Negro | Turqueza",
+////    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+////    imagen:"./media/prendas/elastano/e (2).png",
+////    imagen2:"",
+////    esDeportiva: "true",
+////})
+
+
+
  prodcata.innerHTML += `<h4>${m002.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${m002.imagen}" alt=""></div><p>Tallas disponibles: ${m002.talla}</p><p>Tela: ${m002.tela}</p><p>${m002.descripcion}</p>`
  prodcata.innerHTML += `<h4>${m003.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${m003.imagen}" alt=""></div><p>Tallas disponibles: ${m003.talla}</p><p>Tela: ${m003.tela}</p><p>${m003.descripcion}</p>`
  prodcata.innerHTML += `<h4>${m004.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${m004.imagen}" alt=""></div><p>Tallas disponibles: ${m004.talla}</p><p>Tela: ${m004.tela}</p><p>${m004.descripcion}</p>`
@@ -1439,3 +1678,18 @@ prodcatadanza.innerHTML += `<h4>${danza26.modelo}</h4><div class="galeria"><div 
 prodcatadanza.innerHTML += `<h4>${danza27.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${danza27.imagen}" alt=""></div><p>Tallas disponibles: ${danza27.talla}</p><p>Tela: ${danza27.tela}</p><p>${danza27.descripcion}</p>`
 prodcatadanza.innerHTML += `<h4>${danza28.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${danza28.imagen}" alt=""></div><p>Tallas disponibles: ${danza28.talla}</p><p>Tela: ${danza28.tela}</p><p>${danza28.descripcion}</p>`
 
+
+
+
+//prodcatelas.innerHTML += `<h4>${elas.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas.imagen}" alt=""></div><p>Tallas disponibles: ${elas.talla}</p><p>Tela: ${elas.tela}</p><p>${elas.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas1.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas1.imagen}" alt=""></div><p>Tallas disponibles: ${elas1.talla}</p><p>Tela: ${elas1.tela}</p><p>${elas1.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas2.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas2.imagen}" alt=""></div><p>Tallas disponibles: ${elas2.talla}</p><p>Tela: ${elas2.tela}</p><p>${elas2.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas3.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas3.imagen}" alt=""></div><p>Tallas disponibles: ${elas3.talla}</p><p>Tela: ${elas3.tela}</p><p>${elas3.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas4.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas4.imagen}" alt=""></div><p>Tallas disponibles: ${elas4.talla}</p><p>Tela: ${elas4.tela}</p><p>${elas4.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas5.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas5.imagen}" alt=""></div><p>Tallas disponibles: ${elas5.talla}</p><p>Tela: ${elas5.tela}</p><p>${elas5.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas6.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas6.imagen}" alt=""></div><p>Tallas disponibles: ${elas6.talla}</p><p>Tela: ${elas6.tela}</p><p>${elas6.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas7.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas7.imagen}" alt=""></div><p>Tallas disponibles: ${elas7.talla}</p><p>Tela: ${elas7.tela}</p><p>${elas7.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas8.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas8.imagen}" alt=""></div><p>Tallas disponibles: ${elas8.talla}</p><p>Tela: ${elas8.tela}</p><p>${elas8.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas9.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas9.imagen}" alt=""></div><p>Tallas disponibles: ${elas9.talla}</p><p>Tela: ${elas9.tela}</p><p>${elas9.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas10.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas10.imagen}" alt=""></div><p>Tallas disponibles: ${elas10.talla}</p><p>Tela: ${elas10.tela}</p><p>${elas10.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas.modelo}</h4><div class="galeria"><div class="flechai"></div><div class="flechad"></div><img src="${elas.imagen}" alt=""></div><p>Tallas disponibles: ${elas.talla}</p><p>Tela: ${elas.tela}</p><p>${elas.descripcion}</p>`
