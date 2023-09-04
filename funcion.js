@@ -1319,7 +1319,7 @@ const elas1 = new Deportiva({
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
     descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
-    imagen:"./media/prendas/elastano/e (2).jpg",
+    imagen:"./media/prendas/elastano/e.jpg",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1329,7 +1329,7 @@ const elas2 = new Deportiva({
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
     descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
-    imagen:"./media/prendas/elastano/e (2).png",
+    imagen:"./media/prendas/elastano/e1.jpg",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1339,7 +1339,7 @@ const elas3 = new Deportiva({
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
     descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
-    imagen:"./media/prendas/elastano/e (3).jpg",
+    imagen:"./media/prendas/elastano/e2.jpg",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1349,7 +1349,7 @@ const elas4 = new Deportiva({
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
     descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
-    imagen:"./media/prendas/elastano/e (4).png",
+    imagen:"./media/prendas/elastano/e3.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1359,7 +1359,7 @@ const elas5 = new Deportiva({
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
     descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
-    imagen:"./media/prendas/elastano/e (4).jpg",
+    imagen:"./media/prendas/elastano/e4.jpg",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1369,7 +1369,7 @@ const elas6 = new Deportiva({
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
     descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
-    imagen:"./media/prendas/elastano/e (4).jpg",
+    imagen:"./media/prendas/elastano/e5.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1379,7 +1379,7 @@ const elas7 = new Deportiva({
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
     descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
-    imagen:"./media/prendas/elastano/e (5).png",
+    imagen:"./media/prendas/elastano/e6.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1389,7 +1389,7 @@ const elas8 = new Deportiva({
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
     descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
-    imagen:"./media/prendas/elastano/e (5).jpg",
+    imagen:"./media/prendas/elastano/e7.jpg",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1399,7 +1399,7 @@ const elas9 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano/e (6).png",
+    imagen:"./media/prendas/elastano/e8.jpg",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1409,7 +1409,7 @@ const elas10 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano/e (6).jpg",
+    imagen:"./media/prendas/elastano/e9.png.jpg",
     imagen2:"",
     esDeportiva: "true",
 })
