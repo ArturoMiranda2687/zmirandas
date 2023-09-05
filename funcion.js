@@ -1429,7 +1429,7 @@ const elas12 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e11.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1439,7 +1439,7 @@ const elas13 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e12.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1449,7 +1449,7 @@ const elas14 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e13.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1459,7 +1459,7 @@ const elas15 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e14.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1469,7 +1469,7 @@ const elas16 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e15.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1479,7 +1479,7 @@ const elas17 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e16.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1489,7 +1489,7 @@ const elas18 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e17.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1499,7 +1499,7 @@ const elas19 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e18.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1509,7 +1509,7 @@ const elas20 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e19.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1519,7 +1519,7 @@ const elas21 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e20.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1529,7 +1529,7 @@ const elas22 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e21.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1539,7 +1539,7 @@ const elas23 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e22.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1549,7 +1549,7 @@ const elas24 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e23.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1559,7 +1559,7 @@ const elas25 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e24.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1569,7 +1569,7 @@ const elas26 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e25.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1579,7 +1579,7 @@ const elas27 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e26.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1589,7 +1589,7 @@ const elas28 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e27.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1599,7 +1599,7 @@ const elas29 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e28.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1609,7 +1609,7 @@ const elas30 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e29.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1619,7 +1619,7 @@ const elas31 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e30.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1629,7 +1629,7 @@ const elas32 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e31.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1639,7 +1639,7 @@ const elas33 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e32.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1649,7 +1649,7 @@ const elas34 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e33.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1659,7 +1659,7 @@ const elas35 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e34.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1669,7 +1669,7 @@ const elas36 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e35.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1679,7 +1679,7 @@ const elas38 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e36.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1689,7 +1689,7 @@ const elas39 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e37.png",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1699,7 +1699,7 @@ const elas40 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/elastano",
+    imagen:"./media/prendas/elastano/e38.png",
     imagen2:"",
     esDeportiva: "true",
 })
