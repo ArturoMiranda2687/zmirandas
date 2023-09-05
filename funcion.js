@@ -1673,7 +1673,7 @@ const elas36 = new Deportiva({
     imagen2:"",
     esDeportiva: "true",
 })
-const elas38 = new Deportiva({
+const elas37 = new Deportiva({
     modelo: "",
     talla:"L | M | S",
     tela:"Elastano",
@@ -1683,7 +1683,7 @@ const elas38 = new Deportiva({
     imagen2:"",
     esDeportiva: "true",
 })
-const elas39 = new Deportiva({
+const elas38 = new Deportiva({
     modelo: "",
     talla:"L | M | S",
     tela:"Elastano",
@@ -1693,13 +1693,23 @@ const elas39 = new Deportiva({
     imagen2:"",
     esDeportiva: "true",
 })
-const elas40 = new Deportiva({
+const elas39 = new Deportiva({
     modelo: "",
     talla:"L | M | S",
     tela:"Elastano",
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e38.png",
+    imagen2:"",
+    esDeportiva: "true",
+})
+const elas40 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano",
     imagen2:"",
     esDeportiva: "true",
 })
