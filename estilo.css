@@ -73,7 +73,7 @@ a{
 .flecha{
     width: 10px;
     height: 10px;
-    background: linear-gradient(to bottom left,rgba(73, 73, 73, 0.521) 50%,#ffffff00 50%);
+    background: linear-gradient(to bottom left,rgba(255, 255, 255, 0.61) 50%,#ffffff00 50%);
     align-self: center;
     position: absolute;
 }
