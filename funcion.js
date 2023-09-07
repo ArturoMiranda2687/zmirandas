@@ -1383,7 +1383,9 @@ const elas1 = new Deportiva({
     color:"Negro | Turqueza",
     descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
     imagen:"./media/prendas/elastano/e.png",
-    imagen2:"",
+    imagen2:"./media/prendas/elastano/e1.png",
+    imagen3:"./media/prendas/elastano/e2.png",
+    imagen4:"./media/prendas/elastano/e3.png",
     esDeportiva: "true",
 })
 const elas2 = new Deportiva({
@@ -2042,7 +2044,11 @@ prodcatadanza.innerHTML += `<h4>${danza39.modelo}</h4><div class="galeria"><div 
 
 
 //prodcatelas.innerHTML += `<h4>${elas.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas.imagen}" alt=""></div><p>Tallas disponibles: ${elas.talla}</p><p>Tela: ${elas.tela}</p><p>${elas.descripcion}</p>`
-prodcatelas.innerHTML += `<h4>${elas1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas1.imagen}" alt=""></div><p>Tallas disponibles: ${elas1.talla}</p><p>Tela: ${elas1.tela}</p><p>${elas1.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas1.imagen}" alt=""></div><div class="contenedorVistaPrevia">
+<img src="${elas1.imagen2}" alt="">
+<img src="${elas1.imagen3}" alt="">
+<img src="${elas1.imagen4}" alt="">
+</div><p>Tallas disponibles: ${elas1.talla}</p><p>Tela: ${elas1.tela}</p><p>${elas1.descripcion}</p>`
 prodcatelas.innerHTML += `<h4>${elas2.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas2.imagen}" alt=""></div><p>Tallas disponibles: ${elas2.talla}</p><p>Tela: ${elas2.tela}</p><p>${elas2.descripcion}</p>`
 prodcatelas.innerHTML += `<h4>${elas3.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas3.imagen}" alt=""></div><p>Tallas disponibles: ${elas3.talla}</p><p>Tela: ${elas3.tela}</p><p>${elas3.descripcion}</p>`
 prodcatelas.innerHTML += `<h4>${elas4.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas4.imagen}" alt=""></div><p>Tallas disponibles: ${elas4.talla}</p><p>Tela: ${elas4.tela}</p><p>${elas4.descripcion}</p>`
