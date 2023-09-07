@@ -28,6 +28,9 @@ class Producto{
        descripcion,
        imagen,
        imagen2,
+       imagen3,
+       imagen4,
+       imagen5,
        esDanza,
        esLenceria,
        esDeportiva,
@@ -39,6 +42,9 @@ class Producto{
        this.descripcion= descripcion,
        this.imagen=imagen,
        this.imagen2 = imagen2,
+       this.imagen3 = imagen3,
+       this.imagen4 = imagen4,
+       this.imagen5 = imagen5,
        this.esDanza= esDanza,
        this.esLenceria=esLenceria,
        this.esDeportiva = esDeportiva
@@ -87,6 +93,10 @@ const m002 = new Producto({
     tela:"Lycra",
     descripcion:"Todo más relax",
     imagen:"https://pbs.twimg.com/media/ESzCc59VAAEjycZ?format=jpg&name=large",
+    imagen2:"./media/prendas/baile/bl19.jpg",
+    imagen3:"https://pbs.twimg.com/media/FJPm9lWXEAUxHbO?format=jpg&name=large",
+    imagen4:"./media/prendas/elastano/e108.png",
+    imagen5:"./media/prendas/elastano/e31.png",
 })
  const m003 = new Producto({
     modelo:"M003",
@@ -1161,7 +1171,8 @@ const danza1 = new Danza({
     color:"Rosa",
     descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
     imagen:"./media/prendas/baile/bl1.png",
-    imagen2:"",
+    imagen2:"./media/prendas/baile/bl2.jpg",
+    imagen3:"./media/prendas/baile/bl3.png",
     esDanza:"true",
     esLenceria:"",
 })
@@ -1877,7 +1888,12 @@ const elas51 = new Deportiva({
 })
 
 
- prodcata.innerHTML += `<h4>${m002.modelo}</h4><div class="galeria"><div class="flecha flechai"></div><div class="flecha flechad"></div><img src="${m002.imagen}" alt=""></div><p>Tallas disponibles: ${m002.talla}</p><p>Tela: ${m002.tela}</p><p>${m002.descripcion}</p>`
+ prodcata.innerHTML += `<h4>${m002.modelo}</h4><div class="galeria"><div class="flecha flechai"></div><div class="flecha flechad"></div><img src="${m002.imagen}" alt=""></div><div class="contenedorVistaPrevia">
+ <img src="${m002.imagen2}" alt="">
+ <img src="${m002.imagen3}" alt="">
+ <img src="${m002.imagen4}" alt="">
+ <img src="${m002.imagen5}" alt="">
+</div><p>Tallas disponibles: ${m002.talla}</p><p>Tela: ${m002.tela}</p><p>${m002.descripcion}</p>`
  prodcata.innerHTML += `<h4>${m003.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${m003.imagen}" alt=""></div><p>Tallas disponibles: ${m003.talla}</p><p>Tela: ${m003.tela}</p><p>${m003.descripcion}</p>`
  prodcata.innerHTML += `<h4>${m004.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${m004.imagen}" alt=""></div><p>Tallas disponibles: ${m004.talla}</p><p>Tela: ${m004.tela}</p><p>${m004.descripcion}</p>`
  prodcata.innerHTML += `<h4>${lence1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${lence1.imagen}" alt=""></div><p>Tallas disponibles: ${lence1.talla}</p><p>Tela: ${lence1.tela}</p><p>${lence1.descripcion}</p>`
@@ -1980,7 +1996,10 @@ prodcatal.innerHTML += `<h4>${lence94.modelo}</h4><div class="galeria"><div clas
 
 
 
-prodcatadanza.innerHTML += `<h4>${danza1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${danza1.imagen}" alt=""></div><p>Tallas disponibles: ${danza1.talla}</p><p>Tela: ${danza1.tela}</p><p>${danza1.descripcion}</p>`
+prodcatadanza.innerHTML += `<h4>${danza1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${danza1.imagen}" alt=""></div><div class="contenedorVistaPrevia">
+<img src="${danza1.imagen2}" alt="">
+<img src="${danza1.imagen3}" alt="">
+</div><p>Tallas disponibles: ${danza1.talla}</p><p>Tela: ${danza1.tela}</p><p>${danza1.descripcion}</p>`
 prodcatadanza.innerHTML += `<h4>${danza2.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${danza2.imagen}" alt=""></div><p>Tallas disponibles: ${danza2.talla}</p><p>Tela: ${danza2.tela}</p><p>${danza2.descripcion}</p>`
 prodcatadanza.innerHTML += `<h4>${danza3.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${danza3.imagen}" alt=""></div><p>Tallas disponibles: ${danza3.talla}</p><p>Tela: ${danza3.tela}</p><p>${danza3.descripcion}</p>`
 prodcatadanza.innerHTML += `<h4>${danza4.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${danza4.imagen}" alt=""></div><p>Tallas disponibles: ${danza4.talla}</p><p>Tela: ${danza4.tela}</p><p>${danza4.descripcion}</p>`
