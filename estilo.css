@@ -62,8 +62,32 @@ a{
     text-decoration: none;
     color: white;
 }
-
+.i{
+    justify-self: start;
+    left: 10%;
+}
+.der{
+    justify-self: end;
+    right: 10%;
+}
+.flecha{
+    width: 10px;
+    height: 10px;
+    background: linear-gradient(to bottom left,rgba(73, 73, 73, 0.521) 50%,#ffffff00 50%);
+    align-self: center;
+    position: absolute;
+}
 .flechai{
+    justify-self: start;
+    transform: rotate(225deg);
+    left: 10%;
+}
+.flechad{
+    justify-self: end;
+    transform: rotate(45deg);
+    right: 10%;
+}
+/*.flechai{
     width: 10px;
     height: 10px;
     background: linear-gradient(to bottom left,black 50%,#ffffff00 50%);
@@ -71,7 +95,7 @@ a{
     align-self: center;
     justify-self: start;
     position: absolute;
-    left: 5%;
+    
 }
 .flechad{
     width: 10px;
@@ -83,7 +107,7 @@ a{
     position: absolute;
     right: 5%;
     
-}
+}*/
 .catalogo h4{
     margin: 0 auto;
 }
