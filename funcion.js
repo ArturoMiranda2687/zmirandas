@@ -2427,5 +2427,4 @@ prodcatelas.innerHTML += `<h4>${elas59.modelo}</h4><div class="galeria"><div cla
 prodcatelas.innerHTML += `<h4>${elas60.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas60.imagen}" alt=""></div><div class="contenedorVistaPrevia">
 <img src="${elas60.imagen2}" alt="">
 <img src="${elas60.imagen3}" alt="">
-<img src="${elas60.imagen4}" alt=""></div><div class="contenedorVistaPrevia">
-<img src="${elas60.imagen2}" alt=""></div><p>Tallas disponibles: ${elas60.talla}</p><p>Tela: ${elas60.tela}</p><p>${elas60.descripcion}</p>`
+<img src="${elas60.imagen4}" alt=""></div> <p>Tallas disponibles: ${elas60.talla}</p><p>Tela: ${elas60.tela}</p><p>${elas60.descripcion}</p>`
