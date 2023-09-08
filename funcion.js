@@ -1475,7 +1475,7 @@ const elas10 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e9.png",
-    imagen2:"./media/prendas/elastano/e19.png",
+    imagen2:"./media/prendas/elastano/e10.png",
     esDeportiva: "true",
 })
 const elas11 = new Deportiva({
@@ -1485,8 +1485,8 @@ const elas11 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e10.png",
-    imagen2:"./media/prendas/elastano/e27.png",
-    imagen3:"./media/prendas/elastano/e30.png",
+    imagen2:"",
+    imagen3:"",
     esDeportiva: "true",
 })
 const elas12 = new Deportiva({
@@ -1496,6 +1496,8 @@ const elas12 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e11.png",
+    imagen2:"",
+    imagen3:"",
     imagen2:"",
     esDeportiva: "true",
 })
@@ -1507,7 +1509,7 @@ const elas13 = new Deportiva({
     descripcion:"",
     imagen:"./media/prendas/elastano/e12.png",
     imagen2:"./media/prendas/elastano/e13.png",
-    imagen3:"./media/prendas/elastano/e22.png",
+    imagen3:"./media/prendas/elastano/e14.png",
     esDeportiva: "true",
 })
 const elas14 = new Deportiva({
@@ -1860,9 +1862,9 @@ const elas48 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e47.png",
-    imagen2:"",
-    imagen3:"",
-    imagen4:"",
+    imagen2:"/media/prendas/elastano/e48.png",
+    imagen3:"./media/prendas/elastano/e49.png",
+    imagen4:"./media/prendas/elastano/e50.png",
     imagen5:"",
     esDeportiva: "true",
 })
@@ -1932,7 +1934,7 @@ const elas54 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e53.png",
-    imagen2:"",
+    imagen2:"./media/prendas/elastano/e54.png",
     imagen3:"",
     imagen4:"",
     imagen5:"",
@@ -1958,7 +1960,7 @@ const elas56 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e55.png",
-    imagen2:"",
+    imagen2:"./media/prendas/elastano/e56.png",
     imagen3:"",
     imagen4:"",
     imagen5:"",
