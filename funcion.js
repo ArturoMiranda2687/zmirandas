@@ -2039,9 +2039,24 @@ const elas61 = new Deportiva({
  <img src="${m002.imagen4}" alt="">
  <img src="${m002.imagen5}" alt="">
 </div><p>Tallas disponibles: ${m002.talla}</p><p>Tela: ${m002.tela}</p><p>${m002.descripcion}</p>`
- prodcata.innerHTML += `<h4>${m003.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${m003.imagen}" alt=""></div><p>Tallas disponibles: ${m003.talla}</p><p>Tela: ${m003.tela}</p><p>${m003.descripcion}</p>`
- prodcata.innerHTML += `<h4>${m004.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${m004.imagen}" alt=""></div><p>Tallas disponibles: ${m004.talla}</p><p>Tela: ${m004.tela}</p><p>${m004.descripcion}</p>`
- prodcata.innerHTML += `<h4>${lence1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${lence1.imagen}" alt=""></div><p>Tallas disponibles: ${lence1.talla}</p><p>Tela: ${lence1.tela}</p><p>${lence1.descripcion}</p>`
+ prodcata.innerHTML += `<h4>${m003.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${m003.imagen}" alt=""></div><div class="contenedorVistaPrevia">
+ <img src="${m003.imagen2}" alt="">
+ <img src="${m003.imagen3}" alt="">
+ <img src="${m003.imagen4}" alt="">
+ <img src="${m003.imagen5}" alt="">
+</div><p>Tallas disponibles: ${m003.talla}</p><p>Tela: ${m003.tela}</p><p>${m003.descripcion}</p>`
+ prodcata.innerHTML += `<h4>${m004.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${m004.imagen}" alt=""></div><div class="contenedorVistaPrevia">
+ <img src="${m004.imagen2}" alt="">
+ <img src="${m004.imagen3}" alt="">
+ <img src="${m004.imagen4}" alt="">
+ <img src="${m004.imagen5}" alt="">
+</div><p>Tallas disponibles: ${m004.talla}</p><p>Tela: ${m004.tela}</p><p>${m004.descripcion}</p>`
+ prodcata.innerHTML += `<h4>${lence1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${lence1.imagen}" alt=""></div><div class="contenedorVistaPrevia">
+ <img src="${lence1.imagen2}" alt="">
+ <img src="${lence1.imagen3}" alt="">
+ <img src="${lence1.imagen4}" alt="">
+ <img src="${lence1.imagen5}" alt="">
+</div><p>Tallas disponibles: ${lence1.talla}</p><p>Tela: ${lence1.tela}</p><p>${lence1.descripcion}</p>`
 
 
 prodcatal.innerHTML += `<h4>${lence1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${lence1.imagen}" alt=""></div><p>Tallas disponibles: ${lence1.talla}</p><p>Tela: ${lence1.tela}</p><p>${lence1.descripcion}</p>`
