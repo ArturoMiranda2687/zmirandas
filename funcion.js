@@ -1419,21 +1419,21 @@ const elas4 = new Deportiva({
     esDeportiva: "true",
 })
 const elas5 = new Deportiva({
-    modelo: "e4jpg",
+    modelo: "Dasia",
     talla:"L | M | S",
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
-    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    descripcion:"Un look súper relajado. Ideal para encontrar comodidad en los fines de semana o dentro del hogar",
     imagen:"./media/prendas/elastano/e4.png",
     imagen2:"",
     esDeportiva: "true",
 })
 const elas6 = new Deportiva({
-    modelo: "Greta",
+    modelo: "Mariana",
     talla:"L | M | S",
-    tela:"Lycra | Algodón",
+    tela:"Lycra",
     color:"Negro | Turqueza",
-    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    descripcion:"Enterizo ideal para salidas más aventureras, permite visualización de la línea de cuerpo y es más adecuado para actividades de alto riesgo que requieren presencia y elegancia.",
     imagen:"./media/prendas/elastano/e5.jpg",
     imagen2:"",
     esDeportiva: "true",
@@ -1547,7 +1547,8 @@ const elas17 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e16.png",
-    imagen2:"",
+    imagen2:"./media/prendas/elastano/e17.png",
+    imagen3:"./media/prendas/elastano/e18.png",
     esDeportiva: "true",
 })
 const elas18 = new Deportiva({
@@ -1747,7 +1748,7 @@ const elas37 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e36.png",
-    imagen2:"",
+    imagen2:"./media/prendas/elastano/e37.png",
     esDeportiva: "true",
 })
 const elas38 = new Deportiva({
@@ -1777,7 +1778,9 @@ const elas40 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e39.png",
-    imagen2:"",
+    imagen2:"./media/prendas/elastano/e40.png",
+    imagen3:"./media/prendas/elastano/e41.png",
+    imagen4:"./media/prendas/elastano/e42.png",
     esDeportiva: "true",
 })
 const elas41 = new Deportiva({
@@ -1827,7 +1830,7 @@ const elas45 = new Deportiva({
     color:"",
     descripcion:"",
     imagen:"./media/prendas/elastano/e44.png",
-    imagen2:"",
+    imagen2:"./media/prendas/elastano/e45.png",
     esDeportiva: "true",
 })
 const elas46 = new Deportiva({
