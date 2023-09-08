@@ -93,6 +93,7 @@ a{
 }
 .galeria img{
     width: 90%;
+    aspect-ratio: 2/3;
     margin: 0 auto;
     object-fit: cover;
     object-position: center;
