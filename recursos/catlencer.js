@@ -15,6 +15,7 @@ const lence1 = new Lenceria({
     modelo:"Alguno",
     esLenceria:true,
     imagen:"https://pbs.twimg.com/media/EIUk1YzX0AA25qE.jpg",
+    imagen2:"./media/prendas/lenceria/conjuntos/c.jpg",
 })
 const lence2 = new Lenceria({
     modelo: "",
@@ -1051,7 +1052,13 @@ const lence95 = new Lenceria({
     esLenceria:true,
 })
 
-prodcatal.innerHTML += `<h4>${lence1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${lence1.imagen}" alt=""></div><p>Tallas disponibles: ${lence1.talla}</p><p>Tela: ${lence1.tela}</p><p>${lence1.descripcion}</p>`
+
+
+prodcatal.innerHTML += `<h4>${lence1.modelo}</h4><div class="galeria"><img src="${lence1.imagen}" alt=""></div><div class="contenedorVistaPrevia">
+<img src="${lence1.imagen2}" alt="">
+<img src="${lence1.imagen3}" alt="">
+<img src="${lence1.imagen4}" alt="">
+</div><div class="parrafos"><p>Tallas disponibles: ${lence1.talla}</p><p>Tela: ${lence1.tela}</p><p>${lence1.descripcion}</p></div>`
 prodcatal.innerHTML += `<h4>${lence2.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${lence2.imagen}" alt=""></div><p>Tallas disponibles: ${lence2.talla}</p><p>Tela: ${lence2.tela}</p><p>${lence2.descripcion}</p>`
 prodcatal.innerHTML += `<h4>${lence3.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${lence3.imagen}" alt=""></div><p>Tallas disponibles: ${lence3.talla}</p><p>Tela: ${lence3.tela}</p><p>${lence3.descripcion}</p>`
 prodcatal.innerHTML += `<h4>${lence4.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${lence4.imagen}" alt=""></div><p>Tallas disponibles: ${lence4.talla}</p><p>Tela: ${lence4.tela}</p><p>${lence4.descripcion}</p>`
