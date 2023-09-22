@@ -3,6 +3,7 @@
     box-sizing: border-box;
     margin: 0;
     border: 0;
+    scroll-behavior: 0;
 }
 html{
     
@@ -88,13 +89,14 @@ a{
 }
 .galeria{
     display: flex;
-    overflow-x: hidden;
+    overflow-x: scroll;
     width: 100%;
 }
+
 .galeria img{
     width: 90%;
     aspect-ratio: 2/3;
-    margin: 0 auto;
+    margin: 0 20px;
     object-fit: cover;
     object-position: center;
     border-radius: 15px;
@@ -112,6 +114,9 @@ a{
     border-radius: 12px;
     object-fit: cover;
     margin: 0 5px;
+}
+.parrafos{
+    margin: 0 15px;
 }
 .catalogo, .catalogol, .catalogodanza, .catalogoelas p{
     margin: 0 auto;
