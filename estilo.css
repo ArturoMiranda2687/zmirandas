@@ -44,6 +44,7 @@ p{
 }
 .menudenavegacion{
     width: 100%;
+    top: 0;
 }
 nav{
     background-color: black;
