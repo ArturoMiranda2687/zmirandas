@@ -498,8 +498,320 @@ const elas46 = new Deportiva({
     tela:"Elastano",
     color:"",
     descripcion:"",
-    imagen:"",
+    imagen:"./media/prendas/elastano/e61.png",
+    imagen2:"./media/prendas/elastano/e62.png",
+    imagen3:"./media/prendas/elastano/e63.png",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas47 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e64.png",
     imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas48 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e65.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas49 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e66.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas50 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e67.png",
+    imagen2:"./media/prendas/elastano/e74.png",
+    imagen3:"./media/prendas/elastano/e75.png",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas51 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e68.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas52 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e69.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas53 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e70.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas54 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e71.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas55 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e72.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas56 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e73.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas57 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e76.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas58 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e77.png",
+    imagen2:"./media/prendas/elastano/e78.png",
+    imagen3:"./media/prendas/elastano/e79.png",
+    imagen4:"./media/prendas/elastano/e80.png",
+    imagen5:"./media/prendas/elastano/e81.png",
+    esDeportiva: "true",
+})
+const elas59 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas60 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas61 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas62 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas63 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas64 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas65 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas66 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas67 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas68 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas69 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDeportiva: "true",
+})
+const elas70 = new Deportiva({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"Elastano",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/elastano/e83.png",
+    imagen2:"./media/prendas/elastano/e82.png",
     imagen3:"",
     imagen4:"",
     imagen5:"",
@@ -777,12 +1089,160 @@ prodcatelas.innerHTML += `<h4>${elas46.modelo}</h4><div class="galeria"><div cla
 <img src="${elas46.imagen2}" alt="">
 <img src="${elas46.imagen3}" alt="">
 <img src="${elas46.imagen4}" alt=""></div> <p>Tallas disponibles: ${elas46.talla}</p><p>Tela: ${elas46.tela}</p><p>${elas46.descripcion}</p>`
-//prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas47.imagen}" alt=""><img src="${elas47.imagen2}" alt="">
-//<img src="${elas47.imagen3}" alt="">
-//<img src="${elas47.imagen4}" alt=""></div><div class="contenedorVistaPrevia">
-//<img src="${elas47.imagen2}" alt="">
-//<img src="${elas47.imagen3}" alt="">
-//<img src="${elas47.imagen4}" alt=""></div> <p>Tallas disponibles: ${elas47.talla}</p><p>Tela: ${elas47.tela}</p><p>${elas47.descripcion}</p>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas47.imagen}" alt=""><img src="
+${elas47.imagen2}" alt=""><img src="
+${elas47.imagen3}" alt=""><img src="
+${elas47.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas47.imagen2}" alt=""><img src="
+${elas47.imagen3}" alt=""><img src="
+${elas47.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas47.talla}</p><p>Tela: 
+${elas47.tela}</p><p>
+${elas47.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas48.imagen}" alt=""><img src="
+${elas48.imagen2}" alt=""><img src="
+${elas48.imagen3}" alt=""><img src="
+${elas48.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas48.imagen2}" alt=""><img src="
+${elas48.imagen3}" alt=""><img src="
+${elas48.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas48.talla}</p><p>Tela: 
+${elas48.tela}</p><p>
+${elas48.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas49.imagen}" alt=""><img src="
+${elas49.imagen2}" alt=""><img src="
+${elas49.imagen3}" alt=""><img src="
+${elas49.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas49.imagen2}" alt=""><img src="
+${elas49.imagen3}" alt=""><img src="
+${elas49.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas49.talla}</p><p>Tela: 
+${elas49.tela}</p><p>
+${elas49.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas50.imagen}" alt=""><img src="
+${elas50.imagen2}" alt=""><img src="
+${elas50.imagen3}" alt=""><img src="
+${elas50.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas50.imagen2}" alt=""><img src="
+${elas50.imagen3}" alt=""><img src="
+${elas50.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas50.talla}</p><p>Tela: 
+${elas50.tela}</p><p>
+${elas50.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas51.imagen}" alt=""><img src="
+${elas51.imagen2}" alt=""><img src="
+${elas51.imagen3}" alt=""><img src="
+${elas51.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas51.imagen2}" alt=""><img src="
+${elas51.imagen3}" alt=""><img src="
+${elas51.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas51.talla}</p><p>Tela: 
+${elas51.tela}</p><p>
+${elas51.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas52.imagen}" alt=""><img src="
+${elas52.imagen2}" alt=""><img src="
+${elas52.imagen3}" alt=""><img src="
+${elas52.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas52.imagen2}" alt=""><img src="
+${elas52.imagen3}" alt=""><img src="
+${elas52.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas52.talla}</p><p>Tela: 
+${elas52.tela}</p><p>
+${elas52.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas53.imagen}" alt=""><img src="
+${elas53.imagen2}" alt=""><img src="
+${elas53.imagen3}" alt=""><img src="
+${elas53.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas53.imagen2}" alt=""><img src="
+${elas53.imagen3}" alt=""><img src="
+${elas53.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas53.talla}</p><p>Tela: 
+${elas53.tela}</p><p>
+${elas53.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas54.imagen}" alt=""><img src="
+${elas54.imagen2}" alt=""><img src="
+${elas54.imagen3}" alt=""><img src="
+${elas54.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas54.imagen2}" alt=""><img src="
+${elas54.imagen3}" alt=""><img src="
+${elas54.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas54.talla}</p><p>Tela: 
+${elas54.tela}</p><p>
+${elas54.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas55.imagen}" alt=""><img src="
+${elas55.imagen2}" alt=""><img src="
+${elas55.imagen3}" alt=""><img src="
+${elas55.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas55.imagen2}" alt=""><img src="
+${elas55.imagen3}" alt=""><img src="
+${elas55.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas55.talla}</p><p>Tela: 
+${elas55.tela}</p><p>
+${elas55.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas56.imagen}" alt=""><img src="
+${elas56.imagen2}" alt=""><img src="
+${elas56.imagen3}" alt=""><img src="
+${elas56.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas56.imagen2}" alt=""><img src="
+${elas56.imagen3}" alt=""><img src="
+${elas56.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas56.talla}</p><p>Tela: 
+${elas56.tela}</p><p>
+${elas56.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas57.imagen}" alt=""><img src="
+${elas57.imagen2}" alt=""><img src="
+${elas57.imagen3}" alt=""><img src="
+${elas57.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas57.imagen2}" alt=""><img src="
+${elas57.imagen3}" alt=""><img src="
+${elas57.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas57.talla}</p><p>Tela: 
+${elas57.tela}</p><p>
+${elas57.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas58.imagen}" alt=""><img src="
+${elas58.imagen2}" alt=""><img src="
+${elas58.imagen3}" alt=""><img src="
+${elas58.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas58.imagen2}" alt=""><img src="
+${elas58.imagen3}" alt=""><img src="
+${elas58.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas58.talla}</p><p>Tela: 
+${elas58.tela}</p><p>
+${elas58.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas59.imagen}" alt=""><img src="
+${elas59.imagen2}" alt=""><img src="
+${elas59.imagen3}" alt=""><img src="
+${elas59.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas59.imagen2}" alt=""><img src="
+${elas59.imagen3}" alt=""><img src="
+${elas59.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas59.talla}</p><p>Tela: 
+${elas59.tela}</p><p>
+${elas59.descripcion}</p></div>`
+prodcatelas.innerHTML += `<h4>${elas47.modelo}</h4><div class="galeria"><img src="
+${elas60.imagen}" alt=""><img src="
+${elas60.imagen2}" alt=""><img src="
+${elas60.imagen3}" alt=""><img src="
+${elas60.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${elas60.imagen2}" alt=""><img src="
+${elas60.imagen3}" alt=""><img src="
+${elas60.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
+${elas60.talla}</p><p>Tela: 
+${elas60.tela}</p><p>
+${elas60.descripcion}</p></div>`
 //prodcatelas.innerHTML += `<h4>${elas48.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas48.imagen}" alt=""><img src="${elas48.imagen2}" alt="">
 //<img src="${elas48.imagen3}" alt="">
 //<img src="${elas48.imagen4}" alt=""></div><div class="contenedorVistaPrevia">
