@@ -1649,48 +1649,48 @@ const elas134 = new Deportiva({
     imagen5:"",
     esDeportiva: "true",
 })
-const elas100 = new Deportiva({
-    modelo: "",
-    talla:"L | M | S",
-    tela:"Elastano",
-    color:"",
-    descripcion:"",
-    imagen:"./media/prendas/elastano/e136.png",
-    imagen2:"",
-    imagen3:"",
-    imagen4:"",
-    imagen5:"",
-    esDeportiva: "true",
-})
-const elas100 = new Deportiva({
-    modelo: "",
-    talla:"L | M | S",
-    tela:"Elastano",
-    color:"",
-    descripcion:"",
-    imagen:"./media/prendas/elastano/e136.png",
-    imagen2:"",
-    imagen3:"",
-    imagen4:"",
-    imagen5:"",
-    esDeportiva: "true",
-})
-const elas100 = new Deportiva({
-    modelo: "",
-    talla:"L | M | S",
-    tela:"Elastano",
-    color:"",
-    descripcion:"",
-    imagen:"./media/prendas/elastano/e136.png",
-    imagen2:"",
-    imagen3:"",
-    imagen4:"",
-    imagen5:"",
-    esDeportiva: "true",
-})
-
-
-
+//const elas100 = new Deportiva({
+//    modelo: "",
+//    talla:"L | M | S",
+//    tela:"Elastano",
+//    color:"",
+//    descripcion:"",
+//    imagen:"./media/prendas/elastano/e136.png",
+//    imagen2:"",
+//    imagen3:"",
+//    imagen4:"",
+//    imagen5:"",
+//    esDeportiva: "true",
+//})
+//const elas100 = new Deportiva({
+//    modelo: "",
+//    talla:"L | M | S",
+//    tela:"Elastano",
+//    color:"",
+//    descripcion:"",
+//    imagen:"./media/prendas/elastano/e136.png",
+//    imagen2:"",
+//    imagen3:"",
+//    imagen4:"",
+//    imagen5:"",
+//    esDeportiva: "true",
+//})
+//const elas100 = new Deportiva({
+//    modelo: "",
+//    talla:"L | M | S",
+//    tela:"Elastano",
+//    color:"",
+//    descripcion:"",
+//    imagen:"./media/prendas/elastano/e136.png",
+//    imagen2:"",
+//    imagen3:"",
+//    imagen4:"",
+//    imagen5:"",
+//    esDeportiva: "true",
+//})
+//
+//
+//
 //prodcatelas.innerHTML += `<h4>${elas.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas.imagen}" alt=""></div><p>Tallas disponibles: ${elas.talla}</p><p>Tela: ${elas.tela}</p><p>${elas.descripcion}</p>`
 
 prodcatelas.innerHTML += `<h4>${elas1.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas1.imagen}" alt=""><img src="${elas1.imagen2}" alt=""><img src="${elas1.imagen3}" alt=""><img src="${elas1.imagen4}" alt=""></div><div class="contenedorVistaPrevia">
