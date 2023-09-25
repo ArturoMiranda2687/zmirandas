@@ -1,5 +1,6 @@
 const prodcatadanza = document.querySelector('.catalogodanza')
 
+
 class Danza extends Producto{
     constructor(props){
         super(props)
@@ -49,6 +50,7 @@ const danza7 = new Danza({
     esLenceria:true,
     imagen:"./media/prendas/baile/bl9.png",
     imagen2:"./media/prendas/baile/bl10.png",
+    imagen3:"./media/prendas/baile/bl42.jpg"
 })
 const danza8 = new Danza({
     modelo:"Alguno",
@@ -87,7 +89,21 @@ const danza13 = new Danza({
     imagen3:"./media/prendas/baile/bl29.png",
     imagen4:"./media/prendas/baile/bl30.jpg",
 })
-
+const danza14 = new Danza({
+    modelo:"Alguno",
+    esLenceria:true,
+    imagen:"./media/prendas/baile/bl40.png",
+})
+const danza15 = new Danza({
+    modelo:"Alguno",
+    esLenceria:true,
+    imagen:"./media/prendas/baile/bl41.png",
+})
+const danza16 = new Danza({
+    modelo:"Alguno",
+    esLenceria:true,
+    imagen:"./media/prendas/baile/bl43.png",
+})
 const danza19 = new Danza({
     modelo:"Alguno",
     esLenceria:"false",
@@ -173,7 +189,8 @@ ${danza6.descripcion}</p>`
 prodcatadanza.innerHTML += `<h4>
 ${danza7.modelo}</h4><div class="galeria"><img src="
 ${danza7.imagen}" alt=""><img src="
-${danza7.imagen2}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${danza7.imagen2}" alt=""><img src="
+${danza7.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${danza7.imagen2}" alt=""><img src="
 ${danza7.imagen3}" alt=""></div><p>Tallas disponibles: 
 ${danza7.talla}</p><p>Tela: 
@@ -243,32 +260,32 @@ ${danza13.talla}</p><p>Tela:
 ${danza13.tela}</p><p>
 ${danza13.descripcion}</p>`
 
-//prodcatadanza.innerHTML += `<h4>
-//${danza14.modelo}</h4><div class="galeria"><img src="
-//${danza14.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
-//${danza14.imagen2}" alt=""><img src="
-//${danza14.imagen3}" alt=""></div><p>Tallas disponibles: 
-//${danza14.talla}</p><p>Tela: 
-//${danza14.tela}</p><p>
-//${danza14.descripcion}</p>`
-//
-//prodcatadanza.innerHTML += `<h4>
-//${danza15.modelo}</h4><div class="galeria"><img src="
-//${danza15.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
-//${danza15.imagen2}" alt=""><img src="
-//${danza15.imagen3}" alt=""></div><p>Tallas disponibles: 
-//${danza15.talla}</p><p>Tela: 
-//${danza15.tela}</p><p>
-//${danza15.descripcion}</p>`
-//
-//prodcatadanza.innerHTML += `<h4>
-//${danza16.modelo}</h4><div class="galeria"><img src="
-//${danza16.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
-//${danza16.imagen2}" alt=""><img src="
-//${danza16.imagen3}" alt=""></div><p>Tallas disponibles: 
-//${danza16.talla}</p><p>Tela: 
-//${danza16.tela}</p><p>
-//${danza16.descripcion}</p>`
+prodcatadanza.innerHTML += `<h4>
+${danza14.modelo}</h4><div class="galeria"><img src="
+${danza14.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${danza14.imagen2}" alt=""><img src="
+${danza14.imagen3}" alt=""></div><p>Tallas disponibles: 
+${danza14.talla}</p><p>Tela: 
+${danza14.tela}</p><p>
+${danza14.descripcion}</p>`
+
+prodcatadanza.innerHTML += `<h4>
+${danza15.modelo}</h4><div class="galeria"><img src="
+${danza15.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${danza15.imagen2}" alt=""><img src="
+${danza15.imagen3}" alt=""></div><p>Tallas disponibles: 
+${danza15.talla}</p><p>Tela: 
+${danza15.tela}</p><p>
+${danza15.descripcion}</p>`
+
+prodcatadanza.innerHTML += `<h4>
+${danza16.modelo}</h4><div class="galeria"><img src="
+${danza16.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${danza16.imagen2}" alt=""><img src="
+${danza16.imagen3}" alt=""></div><p>Tallas disponibles: 
+${danza16.talla}</p><p>Tela: 
+${danza16.tela}</p><p>
+${danza16.descripcion}</p>`
 //
 //prodcatadanza.innerHTML += `<h4>
 //${danza17.modelo}</h4><div class="galeria"><img src="
