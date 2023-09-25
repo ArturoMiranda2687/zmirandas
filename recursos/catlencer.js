@@ -1204,7 +1204,7 @@ ${lence10.talla}</p><p>Tela:
 ${lence10.tela}</p><p>
 ${lence10.descripcion}</p></div>`
 prodcatal.innerHTML += `<h4>
-${lence1.modelo}</h4><div class="galeria"><img src="
+${lence11.modelo}</h4><div class="galeria"><img src="
 ${lence11.imagen}" alt=""><img src="
 ${lence11.imagen2}" alt=""><img src="
 ${lence11.imagen3}" alt=""><img src="
@@ -1215,7 +1215,7 @@ ${lence11.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles:
 ${lence11.talla}</p><p>Tela: 
 ${lence11.tela}</p><p>
 ${lence11.descripcion}</p></div>`
-prodcat1al.innerHTML += `<h4>
+prodcatal.innerHTML += `<h4>
 ${lence12.modelo}</h4><div class="galeria"><img src="
 ${lence12.imagen}" alt=""><img src="
 ${lence12.imagen2}" alt=""><img src="
@@ -1311,3 +1311,123 @@ ${lence19.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles:
 ${lence19.talla}</p><p>Tela: 
 ${lence19.tela}</p><p>
 ${lence19.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence20.modelo}</h4><div class="galeria"><img src="
+${lence20.imagen}" alt=""><img src="
+${lence20.imagen2}" alt=""><img src="
+${lence20.imagen3}" alt=""><img src="
+${lence20.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence20.imagen2}" alt=""><img src="
+${lence20.imagen3}" alt=""><img src="
+${lence20.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence20.talla}</p><p>Tela: 
+${lence20.tela}</p><p>
+${lence20.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence21.modelo}</h4><div class="galeria"><img src="
+${lence21.imagen}" alt=""><img src="
+${lence21.imagen2}" alt=""><img src="
+${lence21.imagen3}" alt=""><img src="
+${lence21.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence21.imagen2}" alt=""><img src="
+${lence21.imagen3}" alt=""><img src="
+${lence21.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence21.talla}</p><p>Tela: 
+${lence21.tela}</p><p>
+${lence21.descripcion}</p></div>`
+prodcat1al.innerHTML += `<h4>
+${lence22.modelo}</h4><div class="galeria"><img src="
+${lence22.imagen}" alt=""><img src="
+${lence22.imagen2}" alt=""><img src="
+${lence22.imagen3}" alt=""><img src="
+${lence22.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence22.imagen2}" alt=""><img src="
+${lence22.imagen3}" alt=""><img src="
+${lence22.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence22.talla}</p><p>Tela: 
+${lence22.tela}</p><p>
+${lence22.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence23.modelo}</h4><div class="galeria"><img src="
+${lence23.imagen}" alt=""><img src="
+${lence23.imagen2}" alt=""><img src="
+${lence23.imagen3}" alt=""><img src="
+${lence23.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence23.imagen2}" alt=""><img src="
+${lence23.imagen3}" alt=""><img src="
+${lence23.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence23.talla}</p><p>Tela: 
+${lence23.tela}</p><p>
+${lence23.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence24.modelo}</h4><div class="galeria"><img src="
+${lence24.imagen}" alt=""><img src="
+${lence24.imagen2}" alt=""><img src="
+${lence24.imagen3}" alt=""><img src="
+${lence24.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence24.imagen2}" alt=""><img src="
+${lence24.imagen3}" alt=""><img src="
+${lence24.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence24.talla}</p><p>Tela: 
+${lence24.tela}</p><p>
+${lence24.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence25.modelo}</h4><div class="galeria"><img src="
+${lence25.imagen}" alt=""><img src="
+${lence25.imagen2}" alt=""><img src="
+${lence25.imagen3}" alt=""><img src="
+${lence25.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence25.imagen2}" alt=""><img src="
+${lence25.imagen3}" alt=""><img src="
+${lence25.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence25.talla}</p><p>Tela: 
+${lence25.tela}</p><p>
+${lence25.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence26.modelo}</h4><div class="galeria"><img src="
+${lence26.imagen}" alt=""><img src="
+${lence26.imagen2}" alt=""><img src="
+${lence26.imagen3}" alt=""><img src="
+${lence26.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence26.imagen2}" alt=""><img src="
+${lence26.imagen3}" alt=""><img src="
+${lence26.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence26.talla}</p><p>Tela: 
+${lence26.tela}</p><p>
+${lence26.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence27.modelo}</h4><div class="galeria"><img src="
+${lence27.imagen}" alt=""><img src="
+${lence27.imagen2}" alt=""><img src="
+${lence27.imagen3}" alt=""><img src="
+${lence27.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence27.imagen2}" alt=""><img src="
+${lence27.imagen3}" alt=""><img src="
+${lence27.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence27.talla}</p><p>Tela: 
+${lence27.tela}</p><p>
+${lence27.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence28.modelo}</h4><div class="galeria"><img src="
+${lence28.imagen}" alt=""><img src="
+${lence28.imagen2}" alt=""><img src="
+${lence28.imagen3}" alt=""><img src="
+${lence28.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence28.imagen2}" alt=""><img src="
+${lence28.imagen3}" alt=""><img src="
+${lence28.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence28.talla}</p><p>Tela: 
+${lence28.tela}</p><p>
+${lence28.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence29.modelo}</h4><div class="galeria"><img src="
+${lence29.imagen}" alt=""><img src="
+${lence29.imagen2}" alt=""><img src="
+${lence29.imagen3}" alt=""><img src="
+${lence29.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence29.imagen2}" alt=""><img src="
+${lence29.imagen3}" alt=""><img src="
+${lence29.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence29.talla}</p><p>Tela: 
+${lence29.tela}</p><p>
+${lence29.descripcion}</p></div>`
