@@ -591,8 +591,12 @@ const lence51 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c49.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a108.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a109.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a110.png",
+    imagen4:"./media/prendas/lenceria/conjuntos/a111.png",
+    imagen5:"./media/prendas/lenceria/conjuntos/a112.png",
+    imagen6:"./media/prendas/lenceria/conjuntos/a113.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -602,8 +606,8 @@ const lence52 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c50.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a114.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a115.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -613,8 +617,10 @@ const lence53 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c51.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a116.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a117.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a118.png",
+    imagen4:"./media/prendas/lenceria/conjuntos/a119.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -624,8 +630,8 @@ const lence54 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c52.jpg",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a120.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a121.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -635,8 +641,10 @@ const lence55 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c53.jpg",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a122.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a123.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a124.png",
+    imagen4:"./media/prendas/lenceria/conjuntos/a125.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -646,8 +654,9 @@ const lence56 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c54.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a126.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a127.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a128.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -657,8 +666,12 @@ const lence57 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c55.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a129.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a130.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a131.png",
+    imagen4:"./media/prendas/lenceria/conjuntos/a132.png",
+    imagen5:"./media/prendas/lenceria/conjuntos/a133.png",
+    imagen6:"./media/prendas/lenceria/conjuntos/a134.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -668,8 +681,8 @@ const lence58 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c56.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a135.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a136.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -679,8 +692,9 @@ const lence59 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c57.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a137.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a138.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a139.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -690,8 +704,9 @@ const lence60 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c58.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a140.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a141.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a17.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -701,8 +716,10 @@ const lence61 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c59.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a142.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a143.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a144.png",
+    imagen4:"./media/prendas/lenceria/conjuntos/a145.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -712,8 +729,10 @@ const lence62 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c60.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a146.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a147.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a148.png",
+    imagen4:"./media/prendas/lenceria/conjuntos/a149.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -723,8 +742,9 @@ const lence63 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c61.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a150.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a151.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a152.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -734,8 +754,9 @@ const lence64 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c62.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a153.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a154.png",
+    imagen3:"",
     esDanza:false,
     esLenceria:true,
 })
@@ -745,8 +766,9 @@ const lence65 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c63.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a156.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a157.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a158.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -756,8 +778,9 @@ const lence66 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c64.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a159.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a160.png",
+    imagen3:"",
     esDanza:false,
     esLenceria:true,
 })
@@ -767,8 +790,9 @@ const lence67 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c65.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a161.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a162.png",
+    imagen3:"",
     esDanza:false,
     esLenceria:true,
 })
@@ -778,8 +802,9 @@ const lence68 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c66.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a163.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a164.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a165.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -789,8 +814,10 @@ const lence69 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c67.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a166.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a167.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a168.png",
+    imagen4:"./media/prendas/lenceria/conjuntos/a169.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -800,8 +827,8 @@ const lence70 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c68.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a170.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a171.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -811,8 +838,11 @@ const lence71 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/c69.png",
-    imagen2:"",
+    imagen:"./media/prendas/lenceria/conjuntos/a172.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/a173.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/a174.png",
+    imagen4:"./media/prendas/lenceria/conjuntos/a175.png",
+    imagen5:"./media/prendas/lenceria/conjuntos/a176.png",
     esDanza:false,
     esLenceria:true,
 })
@@ -1431,3 +1461,604 @@ ${lence29.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles:
 ${lence29.talla}</p><p>Tela: 
 ${lence29.tela}</p><p>
 ${lence29.descripcion}</p></div>`
+
+prodcatal.innerHTML += `<h4>
+${lence30.modelo}</h4><div class="galeria"><img src="
+${lence30.imagen}" alt=""><img src="
+${lence30.imagen2}" alt=""><img src="
+${lence30.imagen3}" alt=""><img src="
+${lence30.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence30.imagen2}" alt=""><img src="
+${lence30.imagen3}" alt=""><img src="
+${lence30.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence30.talla}</p><p>Tela: 
+${lence30.tela}</p><p>
+${lence30.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence31.modelo}</h4><div class="galeria"><img src="
+${lence31.imagen}" alt=""><img src="
+${lence31.imagen2}" alt=""><img src="
+${lence31.imagen3}" alt=""><img src="
+${lence31.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence31.imagen2}" alt=""><img src="
+${lence31.imagen3}" alt=""><img src="
+${lence31.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence31.talla}</p><p>Tela: 
+${lence31.tela}</p><p>
+${lence31.descripcion}</p></div>`
+prodcat1al.innerHTML += `<h4>
+${lence32.modelo}</h4><div class="galeria"><img src="
+${lence32.imagen}" alt=""><img src="
+${lence32.imagen2}" alt=""><img src="
+${lence32.imagen3}" alt=""><img src="
+${lence32.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence32.imagen2}" alt=""><img src="
+${lence32.imagen3}" alt=""><img src="
+${lence32.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence32.talla}</p><p>Tela: 
+${lence32.tela}</p><p>
+${lence32.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence33.modelo}</h4><div class="galeria"><img src="
+${lence33.imagen}" alt=""><img src="
+${lence33.imagen2}" alt=""><img src="
+${lence33.imagen3}" alt=""><img src="
+${lence33.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence33.imagen2}" alt=""><img src="
+${lence33.imagen3}" alt=""><img src="
+${lence33.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence33.talla}</p><p>Tela: 
+${lence33.tela}</p><p>
+${lence33.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence34.modelo}</h4><div class="galeria"><img src="
+${lence34.imagen}" alt=""><img src="
+${lence34.imagen2}" alt=""><img src="
+${lence34.imagen3}" alt=""><img src="
+${lence34.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence34.imagen2}" alt=""><img src="
+${lence34.imagen3}" alt=""><img src="
+${lence34.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence34.talla}</p><p>Tela: 
+${lence34.tela}</p><p>
+${lence34.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence35.modelo}</h4><div class="galeria"><img src="
+${lence35.imagen}" alt=""><img src="
+${lence35.imagen2}" alt=""><img src="
+${lence35.imagen3}" alt=""><img src="
+${lence35.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence35.imagen2}" alt=""><img src="
+${lence35.imagen3}" alt=""><img src="
+${lence35.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence35.talla}</p><p>Tela: 
+${lence35.tela}</p><p>
+${lence35.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence36.modelo}</h4><div class="galeria"><img src="
+${lence36.imagen}" alt=""><img src="
+${lence36.imagen2}" alt=""><img src="
+${lence36.imagen3}" alt=""><img src="
+${lence36.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence36.imagen2}" alt=""><img src="
+${lence36.imagen3}" alt=""><img src="
+${lence36.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence36.talla}</p><p>Tela: 
+${lence36.tela}</p><p>
+${lence36.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence37.modelo}</h4><div class="galeria"><img src="
+${lence37.imagen}" alt=""><img src="
+${lence37.imagen2}" alt=""><img src="
+${lence37.imagen3}" alt=""><img src="
+${lence37.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence37.imagen2}" alt=""><img src="
+${lence37.imagen3}" alt=""><img src="
+${lence37.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence37.talla}</p><p>Tela: 
+${lence37.tela}</p><p>
+${lence37.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence38.modelo}</h4><div class="galeria"><img src="
+${lence38.imagen}" alt=""><img src="
+${lence38.imagen2}" alt=""><img src="
+${lence38.imagen3}" alt=""><img src="
+${lence38.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence38.imagen2}" alt=""><img src="
+${lence38.imagen3}" alt=""><img src="
+${lence38.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence38.talla}</p><p>Tela: 
+${lence38.tela}</p><p>
+${lence38.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence39.modelo}</h4><div class="galeria"><img src="
+${lence39.imagen}" alt=""><img src="
+${lence39.imagen2}" alt=""><img src="
+${lence39.imagen3}" alt=""><img src="
+${lence39.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence39.imagen2}" alt=""><img src="
+${lence39.imagen3}" alt=""><img src="
+${lence39.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence39.talla}</p><p>Tela: 
+${lence39.tela}</p><p>
+${lence39.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence40.modelo}</h4><div class="galeria"><img src="
+${lence40.imagen}" alt=""><img src="
+${lence40.imagen2}" alt=""><img src="
+${lence40.imagen3}" alt=""><img src="
+${lence40.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence40.imagen2}" alt=""><img src="
+${lence40.imagen3}" alt=""><img src="
+${lence40.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence40.talla}</p><p>Tela: 
+${lence40.tela}</p><p>
+${lence40.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence41.modelo}</h4><div class="galeria"><img src="
+${lence41.imagen}" alt=""><img src="
+${lence41.imagen2}" alt=""><img src="
+${lence41.imagen3}" alt=""><img src="
+${lence41.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence41.imagen2}" alt=""><img src="
+${lence41.imagen3}" alt=""><img src="
+${lence41.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence41.talla}</p><p>Tela: 
+${lence41.tela}</p><p>
+${lence41.descripcion}</p></div>`
+prodcat1al.innerHTML += `<h4>
+${lence42.modelo}</h4><div class="galeria"><img src="
+${lence42.imagen}" alt=""><img src="
+${lence42.imagen2}" alt=""><img src="
+${lence42.imagen3}" alt=""><img src="
+${lence42.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence42.imagen2}" alt=""><img src="
+${lence42.imagen3}" alt=""><img src="
+${lence42.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence42.talla}</p><p>Tela: 
+${lence42.tela}</p><p>
+${lence42.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence43.modelo}</h4><div class="galeria"><img src="
+${lence43.imagen}" alt=""><img src="
+${lence43.imagen2}" alt=""><img src="
+${lence43.imagen3}" alt=""><img src="
+${lence43.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence43.imagen2}" alt=""><img src="
+${lence43.imagen3}" alt=""><img src="
+${lence43.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence43.talla}</p><p>Tela: 
+${lence43.tela}</p><p>
+${lence43.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence44.modelo}</h4><div class="galeria"><img src="
+${lence44.imagen}" alt=""><img src="
+${lence44.imagen2}" alt=""><img src="
+${lence44.imagen3}" alt=""><img src="
+${lence44.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence44.imagen2}" alt=""><img src="
+${lence44.imagen3}" alt=""><img src="
+${lence44.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence44.talla}</p><p>Tela: 
+${lence44.tela}</p><p>
+${lence44.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence45.modelo}</h4><div class="galeria"><img src="
+${lence45.imagen}" alt=""><img src="
+${lence45.imagen2}" alt=""><img src="
+${lence45.imagen3}" alt=""><img src="
+${lence45.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence45.imagen2}" alt=""><img src="
+${lence45.imagen3}" alt=""><img src="
+${lence45.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence45.talla}</p><p>Tela: 
+${lence45.tela}</p><p>
+${lence45.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence46.modelo}</h4><div class="galeria"><img src="
+${lence46.imagen}" alt=""><img src="
+${lence46.imagen2}" alt=""><img src="
+${lence46.imagen3}" alt=""><img src="
+${lence46.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence46.imagen2}" alt=""><img src="
+${lence46.imagen3}" alt=""><img src="
+${lence46.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence46.talla}</p><p>Tela: 
+${lence46.tela}</p><p>
+${lence46.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence47.modelo}</h4><div class="galeria"><img src="
+${lence47.imagen}" alt=""><img src="
+${lence47.imagen2}" alt=""><img src="
+${lence47.imagen3}" alt=""><img src="
+${lence47.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence47.imagen2}" alt=""><img src="
+${lence47.imagen3}" alt=""><img src="
+${lence47.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence47.talla}</p><p>Tela: 
+${lence47.tela}</p><p>
+${lence47.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence48.modelo}</h4><div class="galeria"><img src="
+${lence48.imagen}" alt=""><img src="
+${lence48.imagen2}" alt=""><img src="
+${lence48.imagen3}" alt=""><img src="
+${lence48.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence48.imagen2}" alt=""><img src="
+${lence48.imagen3}" alt=""><img src="
+${lence48.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence48.talla}</p><p>Tela: 
+${lence48.tela}</p><p>
+${lence48.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence49.modelo}</h4><div class="galeria"><img src="
+${lence49.imagen}" alt=""><img src="
+${lence49.imagen2}" alt=""><img src="
+${lence49.imagen3}" alt=""><img src="
+${lence49.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence49.imagen2}" alt=""><img src="
+${lence49.imagen3}" alt=""><img src="
+${lence49.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence49.talla}</p><p>Tela: 
+${lence49.tela}</p><p>
+${lence49.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence50.modelo}</h4><div class="galeria"><img src="
+${lence50.imagen}" alt=""><img src="
+${lence50.imagen2}" alt=""><img src="
+${lence50.imagen3}" alt=""><img src="
+${lence50.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence50.imagen2}" alt=""><img src="
+${lence50.imagen3}" alt=""><img src="
+${lence50.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence50.talla}</p><p>Tela: 
+${lence50.tela}</p><p>
+${lence50.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence51.modelo}</h4><div class="galeria"><img src="
+${lence51.imagen}" alt=""><img src="
+${lence51.imagen2}" alt=""><img src="
+${lence51.imagen3}" alt=""><img src="
+${lence51.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence51.imagen2}" alt=""><img src="
+${lence51.imagen3}" alt=""><img src="
+${lence51.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence51.talla}</p><p>Tela: 
+${lence51.tela}</p><p>
+${lence51.descripcion}</p></div>`
+prodcat1al.innerHTML += `<h4>
+${lence52.modelo}</h4><div class="galeria"><img src="
+${lence52.imagen}" alt=""><img src="
+${lence52.imagen2}" alt=""><img src="
+${lence52.imagen3}" alt=""><img src="
+${lence52.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence52.imagen2}" alt=""><img src="
+${lence52.imagen3}" alt=""><img src="
+${lence52.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence52.talla}</p><p>Tela: 
+${lence52.tela}</p><p>
+${lence52.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence53.modelo}</h4><div class="galeria"><img src="
+${lence53.imagen}" alt=""><img src="
+${lence53.imagen2}" alt=""><img src="
+${lence53.imagen3}" alt=""><img src="
+${lence53.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence53.imagen2}" alt=""><img src="
+${lence53.imagen3}" alt=""><img src="
+${lence53.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence53.talla}</p><p>Tela: 
+${lence53.tela}</p><p>
+${lence53.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence54.modelo}</h4><div class="galeria"><img src="
+${lence54.imagen}" alt=""><img src="
+${lence54.imagen2}" alt=""><img src="
+${lence54.imagen3}" alt=""><img src="
+${lence54.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence54.imagen2}" alt=""><img src="
+${lence54.imagen3}" alt=""><img src="
+${lence54.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence54.talla}</p><p>Tela: 
+${lence54.tela}</p><p>
+${lence54.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence55.modelo}</h4><div class="galeria"><img src="
+${lence55.imagen}" alt=""><img src="
+${lence55.imagen2}" alt=""><img src="
+${lence55.imagen3}" alt=""><img src="
+${lence55.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence55.imagen2}" alt=""><img src="
+${lence55.imagen3}" alt=""><img src="
+${lence55.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence55.talla}</p><p>Tela: 
+${lence55.tela}</p><p>
+${lence55.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence56.modelo}</h4><div class="galeria"><img src="
+${lence56.imagen}" alt=""><img src="
+${lence56.imagen2}" alt=""><img src="
+${lence56.imagen3}" alt=""><img src="
+${lence56.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence56.imagen2}" alt=""><img src="
+${lence56.imagen3}" alt=""><img src="
+${lence56.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence56.talla}</p><p>Tela: 
+${lence56.tela}</p><p>
+${lence56.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence57.modelo}</h4><div class="galeria"><img src="
+${lence57.imagen}" alt=""><img src="
+${lence57.imagen2}" alt=""><img src="
+${lence57.imagen3}" alt=""><img src="
+${lence57.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence57.imagen2}" alt=""><img src="
+${lence57.imagen3}" alt=""><img src="
+${lence57.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence57.talla}</p><p>Tela: 
+${lence57.tela}</p><p>
+${lence57.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence58.modelo}</h4><div class="galeria"><img src="
+${lence58.imagen}" alt=""><img src="
+${lence58.imagen2}" alt=""><img src="
+${lence58.imagen3}" alt=""><img src="
+${lence58.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence58.imagen2}" alt=""><img src="
+${lence58.imagen3}" alt=""><img src="
+${lence58.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence58.talla}</p><p>Tela: 
+${lence58.tela}</p><p>
+${lence58.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence59.modelo}</h4><div class="galeria"><img src="
+${lence59.imagen}" alt=""><img src="
+${lence59.imagen2}" alt=""><img src="
+${lence59.imagen3}" alt=""><img src="
+${lence59.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence59.imagen2}" alt=""><img src="
+${lence59.imagen3}" alt=""><img src="
+${lence59.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence59.talla}</p><p>Tela: 
+${lence59.tela}</p><p>
+${lence59.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence60.modelo}</h4><div class="galeria"><img src="
+${lence60.imagen}" alt=""><img src="
+${lence60.imagen2}" alt=""><img src="
+${lence60.imagen3}" alt=""><img src="
+${lence60.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence60.imagen2}" alt=""><img src="
+${lence60.imagen3}" alt=""><img src="
+${lence60.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence60.talla}</p><p>Tela: 
+${lence60.tela}</p><p>
+${lence60.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence61.modelo}</h4><div class="galeria"><img src="
+${lence61.imagen}" alt=""><img src="
+${lence61.imagen2}" alt=""><img src="
+${lence61.imagen3}" alt=""><img src="
+${lence61.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence61.imagen2}" alt=""><img src="
+${lence61.imagen3}" alt=""><img src="
+${lence61.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence61.talla}</p><p>Tela: 
+${lence61.tela}</p><p>
+${lence61.descripcion}</p></div>`
+prodcat1al.innerHTML += `<h4>
+${lence62.modelo}</h4><div class="galeria"><img src="
+${lence62.imagen}" alt=""><img src="
+${lence62.imagen2}" alt=""><img src="
+${lence62.imagen3}" alt=""><img src="
+${lence62.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence62.imagen2}" alt=""><img src="
+${lence62.imagen3}" alt=""><img src="
+${lence62.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence62.talla}</p><p>Tela: 
+${lence62.tela}</p><p>
+${lence62.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence63.modelo}</h4><div class="galeria"><img src="
+${lence63.imagen}" alt=""><img src="
+${lence63.imagen2}" alt=""><img src="
+${lence63.imagen3}" alt=""><img src="
+${lence63.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence63.imagen2}" alt=""><img src="
+${lence63.imagen3}" alt=""><img src="
+${lence63.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence63.talla}</p><p>Tela: 
+${lence63.tela}</p><p>
+${lence63.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence64.modelo}</h4><div class="galeria"><img src="
+${lence64.imagen}" alt=""><img src="
+${lence64.imagen2}" alt=""><img src="
+${lence64.imagen3}" alt=""><img src="
+${lence64.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence64.imagen2}" alt=""><img src="
+${lence64.imagen3}" alt=""><img src="
+${lence64.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence64.talla}</p><p>Tela: 
+${lence64.tela}</p><p>
+${lence64.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence65.modelo}</h4><div class="galeria"><img src="
+${lence65.imagen}" alt=""><img src="
+${lence65.imagen2}" alt=""><img src="
+${lence65.imagen3}" alt=""><img src="
+${lence65.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence65.imagen2}" alt=""><img src="
+${lence65.imagen3}" alt=""><img src="
+${lence65.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence65.talla}</p><p>Tela: 
+${lence65.tela}</p><p>
+${lence65.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence66.modelo}</h4><div class="galeria"><img src="
+${lence66.imagen}" alt=""><img src="
+${lence66.imagen2}" alt=""><img src="
+${lence66.imagen3}" alt=""><img src="
+${lence66.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence66.imagen2}" alt=""><img src="
+${lence66.imagen3}" alt=""><img src="
+${lence66.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence66.talla}</p><p>Tela: 
+${lence66.tela}</p><p>
+${lence66.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence67.modelo}</h4><div class="galeria"><img src="
+${lence67.imagen}" alt=""><img src="
+${lence67.imagen2}" alt=""><img src="
+${lence67.imagen3}" alt=""><img src="
+${lence67.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence67.imagen2}" alt=""><img src="
+${lence67.imagen3}" alt=""><img src="
+${lence67.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence67.talla}</p><p>Tela: 
+${lence67.tela}</p><p>
+${lence67.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence68.modelo}</h4><div class="galeria"><img src="
+${lence68.imagen}" alt=""><img src="
+${lence68.imagen2}" alt=""><img src="
+${lence68.imagen3}" alt=""><img src="
+${lence68.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence68.imagen2}" alt=""><img src="
+${lence68.imagen3}" alt=""><img src="
+${lence68.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence68.talla}</p><p>Tela: 
+${lence68.tela}</p><p>
+${lence68.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence69.modelo}</h4><div class="galeria"><img src="
+${lence69.imagen}" alt=""><img src="
+${lence69.imagen2}" alt=""><img src="
+${lence69.imagen3}" alt=""><img src="
+${lence69.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence69.imagen2}" alt=""><img src="
+${lence69.imagen3}" alt=""><img src="
+${lence69.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence69.talla}</p><p>Tela: 
+${lence69.tela}</p><p>
+${lence69.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence70.modelo}</h4><div class="galeria"><img src="
+${lence70.imagen}" alt=""><img src="
+${lence70.imagen2}" alt=""><img src="
+${lence70.imagen3}" alt=""><img src="
+${lence70.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence70.imagen2}" alt=""><img src="
+${lence70.imagen3}" alt=""><img src="
+${lence70.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence70.talla}</p><p>Tela: 
+${lence70.tela}</p><p>
+${lence70.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence71.modelo}</h4><div class="galeria"><img src="
+${lence71.imagen}" alt=""><img src="
+${lence71.imagen2}" alt=""><img src="
+${lence71.imagen3}" alt=""><img src="
+${lence71.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence71.imagen2}" alt=""><img src="
+${lence71.imagen3}" alt=""><img src="
+${lence71.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence71.talla}</p><p>Tela: 
+${lence71.tela}</p><p>
+${lence71.descripcion}</p></div>`
+prodcat1al.innerHTML += `<h4>
+${lence72.modelo}</h4><div class="galeria"><img src="
+${lence72.imagen}" alt=""><img src="
+${lence72.imagen2}" alt=""><img src="
+${lence72.imagen3}" alt=""><img src="
+${lence72.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence72.imagen2}" alt=""><img src="
+${lence72.imagen3}" alt=""><img src="
+${lence72.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence72.talla}</p><p>Tela: 
+${lence72.tela}</p><p>
+${lence72.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence73.modelo}</h4><div class="galeria"><img src="
+${lence73.imagen}" alt=""><img src="
+${lence73.imagen2}" alt=""><img src="
+${lence73.imagen3}" alt=""><img src="
+${lence73.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence73.imagen2}" alt=""><img src="
+${lence73.imagen3}" alt=""><img src="
+${lence73.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence73.talla}</p><p>Tela: 
+${lence73.tela}</p><p>
+${lence73.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence74.modelo}</h4><div class="galeria"><img src="
+${lence74.imagen}" alt=""><img src="
+${lence74.imagen2}" alt=""><img src="
+${lence74.imagen3}" alt=""><img src="
+${lence74.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence74.imagen2}" alt=""><img src="
+${lence74.imagen3}" alt=""><img src="
+${lence74.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence74.talla}</p><p>Tela: 
+${lence74.tela}</p><p>
+${lence74.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence75.modelo}</h4><div class="galeria"><img src="
+${lence75.imagen}" alt=""><img src="
+${lence75.imagen2}" alt=""><img src="
+${lence75.imagen3}" alt=""><img src="
+${lence75.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence75.imagen2}" alt=""><img src="
+${lence75.imagen3}" alt=""><img src="
+${lence75.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence75.talla}</p><p>Tela: 
+${lence75.tela}</p><p>
+${lence75.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence76.modelo}</h4><div class="galeria"><img src="
+${lence76.imagen}" alt=""><img src="
+${lence76.imagen2}" alt=""><img src="
+${lence76.imagen3}" alt=""><img src="
+${lence76.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence76.imagen2}" alt=""><img src="
+${lence76.imagen3}" alt=""><img src="
+${lence76.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence76.talla}</p><p>Tela: 
+${lence76.tela}</p><p>
+${lence76.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence77.modelo}</h4><div class="galeria"><img src="
+${lence77.imagen}" alt=""><img src="
+${lence77.imagen2}" alt=""><img src="
+${lence77.imagen3}" alt=""><img src="
+${lence77.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence77.imagen2}" alt=""><img src="
+${lence77.imagen3}" alt=""><img src="
+${lence77.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence77.talla}</p><p>Tela: 
+${lence77.tela}</p><p>
+${lence77.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence78.modelo}</h4><div class="galeria"><img src="
+${lence78.imagen}" alt=""><img src="
+${lence78.imagen2}" alt=""><img src="
+${lence78.imagen3}" alt=""><img src="
+${lence78.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence78.imagen2}" alt=""><img src="
+${lence78.imagen3}" alt=""><img src="
+${lence78.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence78.talla}</p><p>Tela: 
+${lence78.tela}</p><p>
+${lence78.descripcion}</p></div>`
+prodcatal.innerHTML += `<h4>
+${lence79.modelo}</h4><div class="galeria"><img src="
+${lence79.imagen}" alt=""><img src="
+${lence79.imagen2}" alt=""><img src="
+${lence79.imagen3}" alt=""><img src="
+${lence79.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence79.imagen2}" alt=""><img src="
+${lence79.imagen3}" alt=""><img src="
+${lence79.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence79.talla}</p><p>Tela: 
+${lence79.tela}</p><p>
+${lence79.descripcion}</p></div>`
