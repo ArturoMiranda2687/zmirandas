@@ -284,7 +284,7 @@ const lence25 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/a47.png",
+    imagen:"./media/prendas/lenceria/conjuntos/a47.jpg",
     imagen2:"",
     esDanza:false,
     esLenceria:true,
@@ -295,7 +295,7 @@ const lence26 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/a48.png",
+    imagen:"./media/prendas/lenceria/conjuntos/a48.jpg",
     imagen2:"",
     esDanza:false,
     esLenceria:true,
@@ -306,7 +306,7 @@ const lence27 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/a49.png",
+    imagen:"./media/prendas/lenceria/conjuntos/a49.jpg",
     imagen2:"",
     esDanza:false,
     esLenceria:true,
@@ -317,7 +317,7 @@ const lence28 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/a50.png",
+    imagen:"./media/prendas/lenceria/conjuntos/a50.jpg",
     imagen2:"",
     esDanza:false,
     esLenceria:true,
@@ -328,7 +328,7 @@ const lence29 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/a51.png",
+    imagen:"./media/prendas/lenceria/conjuntos/a51.jpg",
     imagen2:"",
     esDanza:false,
     esLenceria:true,
@@ -339,7 +339,7 @@ const lence30 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/a52.png",
+    imagen:"./media/prendas/lenceria/conjuntos/a52.jpg",
     imagen2:"",
     esDanza:false,
     esLenceria:true,
@@ -361,7 +361,7 @@ const lence32 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/a54.png",
+    imagen:"./media/prendas/lenceria/conjuntos/a54.jpg",
     imagen2:"",
     esDanza:false,
     esLenceria:true,
@@ -1464,10 +1464,7 @@ ${lence29.descripcion}</p></div>`
 
 prodcatal.innerHTML += `<h4>
 ${lence30.modelo}</h4><div class="galeria"><img src="
-${lence30.imagen}" alt=""><img src="
-${lence30.imagen2}" alt=""><img src="
-${lence30.imagen3}" alt=""><img src="
-${lence30.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence30.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${lence30.imagen2}" alt=""><img src="
 ${lence30.imagen3}" alt=""><img src="
 ${lence30.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
