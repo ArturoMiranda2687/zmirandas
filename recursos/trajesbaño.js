@@ -488,14 +488,14 @@ prodcatatb.innerHTML += `<h4>
 ${tb15.modelo}</h4><div class="galeria"><img src="
 ${tb15.imagen}" alt=""><img src="
 ${tb15.imagen2}" alt=""><img src="
-${tb14.imagen3}" alt=""><img src="
-${tb14.imagen4}" alt=""><img src="
-${tb14.imagen5}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb15.imagen3}" alt=""><img src="
+${tb15.imagen4}" alt=""><img src="
+${tb15.imagen5}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb15.imagen}" alt=""><img src="
 ${tb15.imagen2}" alt=""><img src="
-${tb14.imagen3}" alt=""><img src="
-${tb14.imagen4}" alt=""><img src="
-${tb14.imagen5}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb15.imagen3}" alt=""><img src="
+${tb15.imagen4}" alt=""><img src="
+${tb15.imagen5}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb15.talla}</p><p>Tela: 
 ${tb15.tela}</p><p>
 ${tb15.descripcion}</p></div>`
@@ -557,10 +557,10 @@ prodcatatb.innerHTML += `<h4>
 ${tb22.modelo}</h4><div class="galeria"><img src="
 ${tb22.imagen}" alt=""><img src="
 ${tb22.imagen2}" alt=""><img src="
-${tb19.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb22.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb22.imagen}" alt=""><img src="
 ${tb22.imagen2}" alt=""><img src="
-${tb19.imagen3}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb22.imagen3}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb22.talla}</p><p>Tela: 
 ${tb22.tela}</p><p>
 ${tb22.descripcion}</p></div>`
