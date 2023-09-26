@@ -1365,7 +1365,7 @@ ${lence21.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles:
 ${lence21.talla}</p><p>Tela: 
 ${lence21.tela}</p><p>
 ${lence21.descripcion}</p></div>`
-prodcat1al.innerHTML += `<h4>
+prodcatal.innerHTML += `<h4>
 ${lence22.modelo}</h4><div class="galeria"><img src="
 ${lence22.imagen}" alt=""><img src="
 ${lence22.imagen2}" alt=""><img src="
@@ -1486,7 +1486,7 @@ ${lence31.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles:
 ${lence31.talla}</p><p>Tela: 
 ${lence31.tela}</p><p>
 ${lence31.descripcion}</p></div>`
-prodcat1al.innerHTML += `<h4>
+prodcatal.innerHTML += `<h4>
 ${lence32.modelo}</h4><div class="galeria"><img src="
 ${lence32.imagen}" alt=""><img src="
 ${lence32.imagen2}" alt=""><img src="
@@ -1606,7 +1606,7 @@ ${lence41.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles:
 ${lence41.talla}</p><p>Tela: 
 ${lence41.tela}</p><p>
 ${lence41.descripcion}</p></div>`
-prodcat1al.innerHTML += `<h4>
+prodcatal.innerHTML += `<h4>
 ${lence42.modelo}</h4><div class="galeria"><img src="
 ${lence42.imagen}" alt=""><img src="
 ${lence42.imagen2}" alt=""><img src="
@@ -1726,7 +1726,7 @@ ${lence51.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles:
 ${lence51.talla}</p><p>Tela: 
 ${lence51.tela}</p><p>
 ${lence51.descripcion}</p></div>`
-prodcat1al.innerHTML += `<h4>
+prodcatal.innerHTML += `<h4>
 ${lence52.modelo}</h4><div class="galeria"><img src="
 ${lence52.imagen}" alt=""><img src="
 ${lence52.imagen2}" alt=""><img src="
@@ -1846,7 +1846,7 @@ ${lence61.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles:
 ${lence61.talla}</p><p>Tela: 
 ${lence61.tela}</p><p>
 ${lence61.descripcion}</p></div>`
-prodcat1al.innerHTML += `<h4>
+prodcatal.innerHTML += `<h4>
 ${lence62.modelo}</h4><div class="galeria"><img src="
 ${lence62.imagen}" alt=""><img src="
 ${lence62.imagen2}" alt=""><img src="
@@ -1966,7 +1966,7 @@ ${lence71.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles:
 ${lence71.talla}</p><p>Tela: 
 ${lence71.tela}</p><p>
 ${lence71.descripcion}</p></div>`
-prodcat1al.innerHTML += `<h4>
+prodcatal.innerHTML += `<h4>
 ${lence72.modelo}</h4><div class="galeria"><img src="
 ${lence72.imagen}" alt=""><img src="
 ${lence72.imagen2}" alt=""><img src="
