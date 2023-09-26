@@ -396,10 +396,10 @@ prodcatatb.innerHTML += `<h4>
 ${tb5.modelo}</h4><div class="galeria"><img src="
 ${tb5.imagen}" alt=""><img src="
 ${tb5.imagen2}" alt=""><img src="
-${tb4.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb5.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb5.imagen}" alt=""><img src="
 ${tb5.imagen2}" alt=""><img src="
-${tb4.imagen3}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb5.imagen3}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb5.talla}</p><p>Tela: 
 ${tb5.tela}</p><p>
 ${tb5.descripcion}</p></div>`
