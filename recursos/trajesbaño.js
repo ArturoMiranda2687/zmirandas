@@ -71,7 +71,7 @@ const tb5 = new TrajesBano({
     descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
     imagen:"./media/prendas/trajesBaño/tb18.png",
     imagen2:"./media/prendas/trajesBaño/tb20.png",
-    imagen3:"./media/prendas/trajesBaño/tb11.png",
+    imagen3:"",
     imagen4:"",
     esDanza:"",
     esLenceria:"",
