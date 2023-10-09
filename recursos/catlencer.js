@@ -16,6 +16,11 @@ const lence1 = new Lenceria({
     esLenceria:true,
     imagen:"https://pbs.twimg.com/media/EIUk1YzX0AA25qE.jpg",
     imagen2:"./media/prendas/lenceria/conjuntos/c.jpg",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:false,
+    esLenceria:true,
 })
 const lence2 = new Lenceria({
     modelo: "",
@@ -1118,13 +1123,14 @@ ${lence1.modelo}</h4><div class="galeria"><img src="
 ${lence1.imagen}" alt=""><img src="
 ${lence1.imagen2}" alt=""><img src="
 ${lence1.imagen3}" alt=""><img src="
-${lence1.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence1.imagen4}" alt=""><img src="
+${lence1.imagen5}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${lence1.imagen2}" alt=""><img src="
 ${lence1.imagen3}" alt=""><img src="
-${lence1.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence1.imagen4}" alt=""><img src="
+${lence1.imagen5}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
 ${lence1.talla}</p><p>Tela: 
 ${lence1.tela}</p><p>Color: 
-${lence1.color}</p><p>Color: 
 ${lence1.color}</p><p>
 ${lence1.descripcion}</p></div>`
 prodcatal.innerHTML += `<h4>
@@ -1138,8 +1144,7 @@ ${lence2.imagen3}" alt=""><img src="
 ${lence2.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
 ${lence2.talla}</p><p>Tela: 
 ${lence2.tela}</p><p>Color: 
-${lence1.color}</p><p>Color: 
-${lence1.color}</p><p>
+${lence2.color}</p><p>
 ${lence2.descripcion}</p></div>`
 prodcatal.innerHTML += `<h4>
 ${lence3.modelo}</h4><div class="galeria"><img src="
@@ -1152,8 +1157,7 @@ ${lence3.imagen3}" alt=""><img src="
 ${lence3.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
 ${lence3.talla}</p><p>Tela: 
 ${lence3.tela}</p><p>Color: 
-${lence1.color}</p><p>Color: 
-${lence1.color}</p><p>
+${lence3.color}</p><p>
 ${lence3.descripcion}</p></div>`
 prodcatal.innerHTML += `<h4>
 ${lence4.modelo}</h4><div class="galeria"><img src="
@@ -1166,7 +1170,7 @@ ${lence4.imagen3}" alt=""><img src="
 ${lence4.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
 ${lence4.talla}</p><p>Tela: 
 ${lence4.tela}</p><p>Color: 
-${lence1.color}</p><p>
+${lence4.color}</p><p>
 ${lence4.descripcion}</p></div>`
 prodcatal.innerHTML += `<h4>
 ${lence5.modelo}</h4><div class="galeria"><img src="
