@@ -376,7 +376,7 @@ const tb28 = new TrajesBano({
     tela:"Lycra",
     color:"Rosa",
     descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
-    imagen:"./media/prendas/trajesBaño/tb60.png",
+    imagen:"./media/prendas/trajesBaño/tb60.jpg",
     imagen2:"",
     imagen3:"",
     imagen4:"",
@@ -552,8 +552,286 @@ const tb40 = new TrajesBano({
     esDanza:"",
     esLenceria:"",
 })
-
-
+const tb41 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb42 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb43 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb44 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb45 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb46 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb47 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb48 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb49 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb50 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb51 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb52 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb53 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb54 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb55 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb56 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb57 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb58 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb59 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
+const tb60 = new TrajesBano({
+    modelo: "Audrey",
+    talla:"L | M | S",
+    tela:"Lycra",
+    color:"Rosa",
+    descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
+    imagen:"./media/prendas/trajesBaño/tb82.png",
+    imagen2:"",
+    imagen3:"",
+    imagen4:"",
+    imagen5:"",
+    esDanza:"",
+    esLenceria:"",
+})
 
 prodcatatb.innerHTML += `<h4>
 ${tb1.modelo}</h4><div class="galeria"><img src="
@@ -937,3 +1215,183 @@ ${tb40.talla}</p><p>Tela:
 ${tb40.tela}</p><p>Color: 
 ${tb40.color}</p><p>
 ${tb40.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb41.modelo}</h4><div class="galeria"><img src="
+${tb41.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb41.imagen}" alt=""><img src="
+${tb41.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb41.talla}</p><p>Tela: 
+${tb41.tela}</p><p>Color: 
+${tb41.color}</p><p>
+${tb41.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb42.modelo}</h4><div class="galeria"><img src="
+${tb42.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb42.imagen}" alt=""><img src="
+${tb42.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb42.talla}</p><p>Tela: 
+${tb42.tela}</p><p>Color: 
+${tb42.color}</p><p>
+${tb42.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb43.modelo}</h4><div class="galeria"><img src="
+${tb43.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb43.imagen}" alt=""><img src="
+${tb43.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb43.talla}</p><p>Tela: 
+${tb43.tela}</p><p>Color: 
+${tb43.color}</p><p>
+${tb43.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb44.modelo}</h4><div class="galeria"><img src="
+${tb44.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb44.imagen}" alt=""><img src="
+${tb44.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb44.talla}</p><p>Tela: 
+${tb44.tela}</p><p>Color: 
+${tb44.color}</p><p>
+${tb44.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb45.modelo}</h4><div class="galeria"><img src="
+${tb45.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb45.imagen}" alt=""><img src="
+${tb45.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb45.talla}</p><p>Tela: 
+${tb45.tela}</p><p>Color: 
+${tb45.color}</p><p>
+${tb45.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb46.modelo}</h4><div class="galeria"><img src="
+${tb46.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb46.imagen}" alt=""><img src="
+${tb46.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb46.talla}</p><p>Tela: 
+${tb46.tela}</p><p>Color: 
+${tb46.color}</p><p>
+${tb46.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb47.modelo}</h4><div class="galeria"><img src="
+${tb47.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb47.imagen}" alt=""><img src="
+${tb47.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb47.talla}</p><p>Tela: 
+${tb47.tela}</p><p>Color: 
+${tb47.color}</p><p>
+${tb47.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb48.modelo}</h4><div class="galeria"><img src="
+${tb48.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb48.imagen}" alt=""><img src="
+${tb48.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb48.talla}</p><p>Tela: 
+${tb48.tela}</p><p>Color: 
+${tb48.color}</p><p>
+${tb48.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb49.modelo}</h4><div class="galeria"><img src="
+${tb49.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb49.imagen}" alt=""><img src="
+${tb49.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb49.talla}</p><p>Tela: 
+${tb49.tela}</p><p>Color: 
+${tb49.color}</p><p>
+${tb49.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb50.modelo}</h4><div class="galeria"><img src="
+${tb50.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb50.imagen}" alt=""><img src="
+${tb50.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb50.talla}</p><p>Tela: 
+${tb50.tela}</p><p>Color: 
+${tb50.color}</p><p>
+${tb50.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb51.modelo}</h4><div class="galeria"><img src="
+${tb51.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb51.imagen}" alt=""><img src="
+${tb51.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb51.talla}</p><p>Tela: 
+${tb51.tela}</p><p>Color: 
+${tb51.color}</p><p>
+${tb51.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb52.modelo}</h4><div class="galeria"><img src="
+${tb52.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb52.imagen}" alt=""><img src="
+${tb52.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb52.talla}</p><p>Tela: 
+${tb52.tela}</p><p>Color: 
+${tb52.color}</p><p>
+${tb52.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb53.modelo}</h4><div class="galeria"><img src="
+${tb53.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb53.imagen}" alt=""><img src="
+${tb53.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb53.talla}</p><p>Tela: 
+${tb53.tela}</p><p>Color: 
+${tb53.color}</p><p>
+${tb53.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb54.modelo}</h4><div class="galeria"><img src="
+${tb54.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb54.imagen}" alt=""><img src="
+${tb54.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb54.talla}</p><p>Tela: 
+${tb54.tela}</p><p>Color: 
+${tb54.color}</p><p>
+${tb54.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb55.modelo}</h4><div class="galeria"><img src="
+${tb55.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb55.imagen}" alt=""><img src="
+${tb55.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb55.talla}</p><p>Tela: 
+${tb55.tela}</p><p>Color: 
+${tb55.color}</p><p>
+${tb55.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb56.modelo}</h4><div class="galeria"><img src="
+${tb56.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb56.imagen}" alt=""><img src="
+${tb56.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb56.talla}</p><p>Tela: 
+${tb56.tela}</p><p>Color: 
+${tb56.color}</p><p>
+${tb56.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb57.modelo}</h4><div class="galeria"><img src="
+${tb57.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb57.imagen}" alt=""><img src="
+${tb57.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb57.talla}</p><p>Tela: 
+${tb57.tela}</p><p>Color: 
+${tb57.color}</p><p>
+${tb57.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb58.modelo}</h4><div class="galeria"><img src="
+${tb58.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb58.imagen}" alt=""><img src="
+${tb58.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb58.talla}</p><p>Tela: 
+${tb58.tela}</p><p>Color: 
+${tb58.color}</p><p>
+${tb58.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb59.modelo}</h4><div class="galeria"><img src="
+${tb59.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb59.imagen}" alt=""><img src="
+${tb59.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb59.talla}</p><p>Tela: 
+${tb59.tela}</p><p>Color: 
+${tb59.color}</p><p>
+${tb59.descripcion}</p></div>`
+prodcatatb.innerHTML += `<h4>
+${tb60.modelo}</h4><div class="galeria"><img src="
+${tb60.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb60.imagen}" alt=""><img src="
+${tb60.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb60.talla}</p><p>Tela: 
+${tb60.tela}</p><p>Color: 
+${tb60.color}</p><p>
+${tb60.descripcion}</p></div>`
