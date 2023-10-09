@@ -43,8 +43,8 @@ const tb3 = new TrajesBano({
     tela:"Lycra",
     color:"Rosa",
     descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
-    imagen:"./media/prendas/trajesBaño/tb4.png",
-    imagen2:"",
+    imagen:"./media/prendas/trajesBaño/tb9.png",
+    imagen2:"./media/prendas/trajesBaño/tb10.png",
     imagen3:"",
     esDanza:"",
     esLenceria:"",
@@ -379,15 +379,17 @@ ${tb2.imagen3}" alt=""><img src="
 ${tb2.imagen4}" alt=""><img src="
 ${tb2.imagen5}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb2.talla}</p><p>
-${tb1.color}</p><p>Tela: 
+${tb2.color}</p><p>Tela: 
 ${tb2.tela}</p><p>
 ${tb2.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
 ${tb3.modelo}</h4><div class="galeria"><img src="
-${tb3.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb3.imagen}" alt=""><img src="
+${tb3.imagen2}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb3.imagen}" alt=""><img src="
 ${tb3.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
-${tb3.talla}</p><p>Tela: 
+${tb3.talla}</p><p>
+${tb3.color}</p><p>Tela: 
 ${tb3.tela}</p><p>
 ${tb3.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
