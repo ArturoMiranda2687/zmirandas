@@ -1361,15 +1361,15 @@ ${tb54.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
 ${tb55.modelo}</h4><div class="galeria"><img src="
 ${tb55.imagen}" alt=""><img src="
-${tb54.imagen2}" alt=""><img src="
-${tb54.imagen3}" alt=""><img src="
-${tb54.imagen4}" alt=""><img src="
-${tb54.imagen5}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb55.imagen2}" alt=""><img src="
+${tb55.imagen3}" alt=""><img src="
+${tb55.imagen4}" alt=""><img src="
+${tb55.imagen5}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb55.imagen}" alt=""><img src="
 ${tb55.imagen2}" alt=""><img src="
-${tb54.imagen3}" alt=""><img src="
-${tb54.imagen4}" alt=""><img src="
-${tb54.imagen5}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb55.imagen3}" alt=""><img src="
+${tb55.imagen4}" alt=""><img src="
+${tb55.imagen5}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb55.talla}</p><p>Tela: 
 ${tb55.tela}</p><p>Color: 
 ${tb55.color}</p><p>
@@ -1377,11 +1377,11 @@ ${tb55.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
 ${tb56.modelo}</h4><div class="galeria"><img src="
 ${tb56.imagen}" alt=""><img src="
-${tb54.imagen2}" alt=""><img src="
-${tb54.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb56.imagen2}" alt=""><img src="
+${tb56.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb56.imagen}" alt=""><img src="
 ${tb56.imagen2}" alt=""><img src="
-${tb54.imagen3}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb56.imagen3}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb56.talla}</p><p>Tela: 
 ${tb56.tela}</p><p>Color: 
 ${tb56.color}</p><p>
@@ -1389,8 +1389,8 @@ ${tb56.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
 ${tb57.modelo}</h4><div class="galeria"><img src="
 ${tb57.imagen}" alt=""><img src="
-${tb54.imagen2}" alt=""><img src="
-${tb54.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb57.imagen2}" alt=""><img src="
+${tb57.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb57.imagen}" alt=""><img src="
 ${tb57.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb57.talla}</p><p>Tela: 
@@ -1400,7 +1400,7 @@ ${tb57.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
 ${tb58.modelo}</h4><div class="galeria"><img src="
 ${tb58.imagen}" alt=""><img src="
-${tb54.imagen2}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb58.imagen2}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb58.imagen}" alt=""><img src="
 ${tb58.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb58.talla}</p><p>Tela: 
