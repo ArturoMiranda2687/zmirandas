@@ -17,7 +17,7 @@ const tb1 = new TrajesBano({
     tela:"Lycra",
     color:"Rosa",
     descripcion:"Este body está diseñado con un aspecto conservador, pero funcional para resaltar la figura del cuerpo mientras haces tu entrenamiento o montaje. Apto para los largos tiempos de ensayo. Sin mangas",
-    imagen:"../media/prendas/trajesBaño/tb1.png",
+    imagen:"./media/prendas/trajesBaño/tb1.png",
     imagen2:"../media/prendas/trajesBaño/tb2.png",
     imagen3:"",
     esDanza:"",
