@@ -861,9 +861,11 @@ ${tb4.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
 ${tb5.modelo}</h4><div class="galeria"><img src="
 ${tb5.imagen}" alt=""><img src="
-${tb5.imagen2}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb5.imagen2}" alt=""><img src="
+${tb5.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb5.imagen}" alt=""><img src="
-${tb5.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb5.imagen2}" alt=""><img src="
+${tb5.imagen3}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb5.talla}</p><p>Tela: 
 ${tb5.tela}</p><p>
 ${tb5.descripcion}</p></div>`
@@ -920,16 +922,21 @@ ${tb11.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
 ${tb12.modelo}</h4><div class="galeria"><img src="
 ${tb12.imagen}" alt=""><img src="
-${tb12.imagen2}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb12.imagen2}" alt=""><img src="
+${tb12.imagen3}" alt=""><img src="
+${tb12.imagen4}" alt=""><img src="
+${tb12.imagen5}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb12.imagen}" alt=""><img src="
-${tb12.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
+${tb12.imagen2}" alt=""><img src="
+${tb12.imagen3}" alt=""><img src="
+${tb12.imagen4}" alt=""><img src="
+${tb12.imagen5}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb12.talla}</p><p>Tela: 
 ${tb12.tela}</p><p>
 ${tb12.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
 ${tb13.modelo}</h4><div class="galeria"><img src="
-${tb13.imagen}" alt=""><img src="
-${tb13.imagen2}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb13.imagen}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb13.imagen}" alt=""><img src="
 ${tb13.imagen2}" alt=""></div><div class = "parrafos"><p>Tallas disponibles: 
 ${tb13.talla}</p><p>Tela: 
@@ -938,10 +945,7 @@ ${tb13.descripcion}</p></div>`
 prodcatatb.innerHTML += `<h4>
 ${tb14.modelo}</h4><div class="galeria"><img src="
 ${tb14.imagen}" alt=""><img src="
-${tb14.imagen2}" alt=""><img src="
-${tb14.imagen3}" alt=""><img src="
-${tb14.imagen4}" alt=""><img src="
-${tb14.imagen5}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${tb14.imagen2}" alt=""></div><div class="contenedorVistaPrevia"><img src="
 ${tb14.imagen}" alt=""><img src="
 ${tb14.imagen2}" alt=""><img src="
 ${tb14.imagen3}" alt=""><img src="
