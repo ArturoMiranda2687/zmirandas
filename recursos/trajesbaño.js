@@ -735,7 +735,7 @@ const tb53 = new TrajesBano({
     esLenceria:"",
 })
 const tb54 = new TrajesBano({
-    modelo: "Audrey",
+    modelo: "Violeta",
     talla:"L | M | S",
     tela:"Lycra",
     color:"Rosa",
