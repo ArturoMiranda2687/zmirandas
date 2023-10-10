@@ -1137,11 +1137,10 @@ prodcatal.innerHTML += `<h4>
 ${lence2.modelo}</h4><div class="galeria"><img src="
 ${lence2.imagen}" alt=""><img src="
 ${lence2.imagen2}" alt=""><img src="
-${lence2.imagen3}" alt=""><img src="
-${lence2.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence2.imagen3}" alt=""></div><div class="contenedorVistaPrevia"><img src="
+${lence2.imagen}" alt=""><img src="
 ${lence2.imagen2}" alt=""><img src="
-${lence2.imagen3}" alt=""><img src="
-${lence2.imagen4}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
+${lence2.imagen3}" alt=""></div><div class="parrafos"><p>Tallas disponibles: 
 ${lence2.talla}</p><p>Tela: 
 ${lence2.tela}</p><p>Color: 
 ${lence2.color}</p><p>
