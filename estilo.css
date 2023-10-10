@@ -137,3 +137,6 @@ a{
 .anulado{
     display: none;
 }
+.inactivo{
+    visibility: hidden;
+}
