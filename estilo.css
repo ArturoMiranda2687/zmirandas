@@ -20,6 +20,8 @@ footer{
     color: white;
     text-align: center;
     width: 100%;
+    position: absolute;
+    bottom: 0;
 }
 h1{
     font-size: 3.6rem;
