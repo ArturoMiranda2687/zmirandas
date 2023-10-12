@@ -128,18 +128,17 @@ a{
     font-size: 1.6rem;
     color: black;
     width: 20%;
-    height: 20px;
+    height: 25px;
     border: 2px solid black;
     border-radius: 16%;
     margin: 5px auto 5px;
     display: flex;
+    align-content: start;
+    justify-content: center;
 }
 .btnhome a{
     text-decoration: none;
     color: black;
-    margin: auto 2px;
-    align-self: center;
-    justify-self: center;
 }
 .anulado{
     display: none;
