@@ -374,7 +374,7 @@ const lence32 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/getz.jpg",
+    imagen:"./media/prendas/lenceria/conjuntos/gets.png",
     imagen2:"",
     esDanza:false,
     esLenceria:true,
