@@ -23,7 +23,7 @@ const elas2 = new Deportiva({
     talla:"L | M | S",
     tela:"Lycra | Algodón",
     color:"Negro | Turqueza",
-    descripcion:"Un atuendo más relajado. Ideal para ensayos cotidianos. Viene acompañad de pareo de danza",
+    descripcion:"El mejor de los atuendos para la mejor de las bailarinas",
     imagen:"./media/prendas/elastano/e4.png",
     imagen2:"",
     esDeportiva: "true",
