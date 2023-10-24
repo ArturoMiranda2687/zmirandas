@@ -1692,6 +1692,8 @@ const elas134 = new Deportiva({
 //
 //
 //prodcatelas.innerHTML += `<h4>${elas.modelo}</h4><div class="galeria"><div class= "flecha flechai"></div><div class= "flecha flechad"></div><img src="${elas.imagen}" alt=""></div><p>Tallas disponibles: ${elas.talla}</p><p>Tela: ${elas.tela}</p><p>${elas.descripcion}</p>`
+
+
 prodcatelas.innerHTML += `<h4>
 ${elas1.modelo}</h4><div class="galeria"><img src="
 ${elas1.imagen}" alt=""><img src="
