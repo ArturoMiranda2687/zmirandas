@@ -761,7 +761,7 @@ const lence63 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/julg1.png",
+    imagen:"./media/prendas/lenceria/conjuntos/julbg1.png",
     imagen3:"",
     imagen2:"",
     esDanza:false,
