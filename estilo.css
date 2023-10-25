@@ -3,10 +3,10 @@
     box-sizing: border-box;
     margin: 0;
     border: 0;
-    scroll-behavior: 0;
+    
 }
 html{
-    
+    text-align: center;
    font-size: 62.5%;
    font-family: 'Kalam', cursive;
 }
@@ -68,23 +68,7 @@ a{
     justify-self: end;
     right: 10%;
 }
-.flecha{
-    width: 20px;
-    aspect-ratio: 1/1;
-    background: linear-gradient(to bottom left,rgba(255, 255, 255, 0.493) 50%,#ffffff00 50%);
-    align-self: center;
-    position: absolute;
-}
-.flechai{
-    justify-self: start;
-    transform: rotate(225deg);
-    left: 10%;
-}
-.flechad{
-    justify-self: end;
-    transform: rotate(45deg);
-    right: 10%;
-}
+
 .catalogo h4{
     margin: 0 auto;
 }
