@@ -1140,6 +1140,115 @@ const lence95 = new Lenceria({
     esLenceria:true,
 })
 
+const lence96 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/laima1.png",
+    imagen2:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence97 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/laina1.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/laina2.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/laina3.png",
+    imagen4:"./media/prendas/lenceria/conjuntos/laina4.png",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence98 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/lainb1.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/lainb2.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/lainb3.png",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence99 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/lainc1.png",
+    imagen2:"./media/prendas/lenceria/conjuntos/lainc2.png",
+    imagen3:"./media/prendas/lenceria/conjuntos/lainc3.png",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence100 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/laind1.png",
+    imagen2:"",
+    imagen3:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence101 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/laine1.png",
+    imagen2:"",
+    imagen3:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence102 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/lainf1.png",
+    imagen2:"",
+    imagen3:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence103 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/laing1.png",
+    imagen2:"",
+    imagen3:"",
+    esDanza:false,
+    esLenceria:true,
+})
+const lence104 = new Lenceria({
+    modelo: "",
+    talla:"L | M | S",
+    tela:"",
+    color:"",
+    descripcion:"",
+    imagen:"./media/prendas/lenceria/conjuntos/lainh1.png",
+    imagen2:"",
+    imagen3:"",
+    esDanza:false,
+    esLenceria:true,
+})
+
 var productos = [
     lence1,
     lence2,
