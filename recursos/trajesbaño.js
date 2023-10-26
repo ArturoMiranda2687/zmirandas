@@ -38,7 +38,7 @@ const tb2 = new TrajesBano({
     estbria:"",
 })
 const tb3 = new TrajesBano({
-    modelo: "Beth",
+    modelo: "Monica",
     talla:"L | M | S",
     tela:"Lycra",
     color:"Rosa",
@@ -777,7 +777,7 @@ const tb56 = new TrajesBano({
     estbria:"",
 })
 const tb57 = new TrajesBano({
-    modelo: "Audrey",
+    modelo: "Monica",
     talla:"L | M | S",
     tela:"Lycra",
     color:"Rosa",
@@ -919,6 +919,7 @@ var productos = [
 
 productos.forEach(function(producto) {
     var productoElement = document.createElement("div");
+    productoElement.classList.add("busqueda")
     productoElement.innerHTML = `
       <h4>${producto.modelo}</h4>
       <div class="caja">

@@ -17,3 +17,4 @@ intro.innerHTML += `Porfavor, visita cada una de nustras secciones para que cono
 
 saludos.appendChild(titulo)
 saludos.appendChild(intro)
+

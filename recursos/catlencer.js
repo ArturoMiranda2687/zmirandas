@@ -1363,6 +1363,7 @@ var productos = [
 
 productos.forEach(function(producto) {
     var productoElement = document.createElement("div");
+    productoElement.classList.add("busqueda")
     productoElement.innerHTML = `
       <h4>${producto.modelo}</h4>
       <div class= "caja">
