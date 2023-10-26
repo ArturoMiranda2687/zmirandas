@@ -42,10 +42,22 @@ h4{
 p{
     font-size: 1.6rem;
 }
-.menudenavegacion{
+/*.menudenavegacion{
     width: 100%;
     top: 0;
+}*/
+.cabecera{
+    margin-top: 18px;
 }
+.menudenavegacion {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Puedes ajustar el valor de z-index según sea necesario */
+    background-color: black;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Agrega una sombra para un efecto visual */
+  }
 nav{
     background-color: black;
 }
@@ -72,20 +84,25 @@ a{
 .catalogo h4{
     margin: 0 auto;
 }
+
+.caja{
+    overflow-x: scroll;
+}
 .galeria{
     display: flex;
     overflow-x: scroll;
-    width: 100%;
+    
 }
 
 .galeria img{
-    width: 90%;
+    width: 385px;
     aspect-ratio: 2/3;
     margin: 0 20px;
     object-fit: cover;
     object-position: center;
     border-radius: 15px;
 }
+ 
 .contenedorVistaPrevia{
     display: flex;
     overflow-x: hidden;

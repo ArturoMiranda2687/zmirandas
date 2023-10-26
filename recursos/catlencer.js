@@ -23,11 +23,11 @@ const lence1 = new Lenceria({
     esLenceria:true,
 })
 const lence2 = new Lenceria({
-    modelo: "",
+    modelo: "Anna Ven",
     talla:"L | M | S",
-    tela:"",
-    color:"",
-    descripcion:"",
+    tela:"Blonda",
+    color:"negro / Rojo",
+    descripcion:"Uno de los modelos más atrevidos y entusiasmantes que tenemos, sin duda, uno de nuestros favoritos",
     imagen:"./media/prendas/lenceria/conjuntos/aaaa.png",
     imagen2:"./media/prendas/lenceria/conjuntos/aaaa1.png",
     imagen3:"./media/prendas/lenceria/conjuntos/aaaa2.png",
@@ -36,7 +36,7 @@ const lence2 = new Lenceria({
     esLenceria:true,
 })
 const lence3 = new Lenceria({
-    modelo: "",
+    modelo: "Adelaide",
     talla:"L | M | S",
     tela:"",
     color:"",
@@ -1242,7 +1242,7 @@ const lence104 = new Lenceria({
     tela:"",
     color:"",
     descripcion:"",
-    imagen:"./media/prendas/lenceria/conjuntos/lainh1.png",
+    imagen:"./media/prendas/lenceria/conjuntos/lainh1.jpg",
     imagen2:"",
     imagen3:"",
     esDanza:false,
@@ -1361,23 +1361,40 @@ var productos = [
     lence109,*/
 ]
 
-
-productos.forEach(function(producto)
-{
-    var productoElement = document.createElement("div")
-
-    productoElement.innerHTML = `<h4>
-    ${producto.modelo}</h4><div class="galeria"><img src="
-    ${producto.imagen}" alt=""><img src="
-    ${producto.imagen2}" alt=""><img src="
-    ${producto.imagen3}" alt=""><img src="
-    ${producto.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
-    ${producto.imagen2}" alt=""><img src="
-    ${producto.imagen3}" alt=""><img src="
-    ${producto.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
-    ${producto.talla}</p><p>Tela: 
-    ${producto.tela}</p><p>
-    ${producto.descripcion}</p></div>`
-
-    prodcatal.appendChild(productoElement)
-})
+productos.forEach(function(producto) {
+    var productoElement = document.createElement("div");
+    productoElement.innerHTML = `
+      <h4>${producto.modelo}</h4>
+      <div class= "caja">
+        <div class="galeria">
+          ${producto.imagen ? `<img src="${producto.imagen}" alt="">` : ''}
+          ${producto.imagen2 ? `<img src="${producto.imagen2}" alt="">` : ''}
+          ${producto.imagen3 ? `<img src="${producto.imagen3}" alt="">` : ''}
+          ${producto.imagen4 ? `<img src="${producto.imagen4}" alt="">` : ''}
+        </div>
+    </div>
+      <div class="contenedorVistaPrevia">
+        ${producto.imagen ? `<img src="${producto.imagen}" alt="">` : ''}
+        ${producto.imagen2 ? `<img src="${producto.imagen2}" alt="">` : ''}
+        ${producto.imagen3 ? `<img src="${producto.imagen3}" alt="">` : ''}
+        ${producto.imagen4 ? `<img src="${producto.imagen4}" alt="">` : ''}
+      </div>
+      <div class="parrafos">
+        <p>Tallas disponibles: ${producto.talla}</p>
+        <p>Tela: ${producto.tela}</p>
+        <p>${producto.descripcion}</p>
+      </div>`;
+  
+    // Calcula el ancho del contenedor .galeria en función de la cantidad de imágenes
+    var numImagenes = 0;
+    if (producto.imagen) numImagenes++;
+    if (producto.imagen2) numImagenes++;
+    if (producto.imagen3) numImagenes++;
+    if (producto.imagen4) numImagenes++;
+  
+    // Aplica el ancho calculado al contenedor .galeria
+    var galeriaElement = productoElement.querySelector(".galeria");
+    galeriaElement.style.width = numImagenes * 100 + "%";
+  
+    prodcatal.appendChild(productoElement);
+  });

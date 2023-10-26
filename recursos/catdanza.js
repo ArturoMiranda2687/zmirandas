@@ -26,7 +26,7 @@ const danza1 = new Danza({
 })
 
 const danza2 = new Danza({
-    modelo:"Alguno",
+    modelo:"Greta entrenamiento",
     imagen:"./media/prendas/baile/bl4.png",
 })
 const danza3 = new Danza({
@@ -142,23 +142,42 @@ var productos = [
     danza1,danza2,danza3,danza4,danza5,danza6,danza7,danza8,danza9,danza10,danza11,danza12,danza13,danza14,danza15,danza16,/*danza17,danza18*/,danza19,danza20,danza21,danza22,danza23,danza24
 ]
 
-
-productos.forEach(function(producto)
-{
-    var productoElement = document.createElement("div")
-
-    productoElement.innerHTML = `<h4>
-    ${producto.modelo}</h4><div class="galeria"><img src="
-    ${producto.imagen}" alt=""><img src="
-    ${producto.imagen2}" alt=""><img src="
-    ${producto.imagen3}" alt=""><img src="
-    ${producto.imagen4}" alt=""></div><div class="contenedorVistaPrevia"><img src="
-    ${producto.imagen2}" alt=""><img src="
-    ${producto.imagen3}" alt=""><img src="
-    ${producto.imagen4}" alt=""></div><div class: "parrafos"> <p>Tallas disponibles: 
-    ${producto.talla}</p><p>Tela: 
-    ${producto.tela}</p><p>
-    ${producto.descripcion}</p></div>`
-
-    prodcatadanza.appendChild(productoElement)
-})
+  
+productos.forEach(function(producto) {
+    var productoElement = document.createElement("div");
+    productoElement.innerHTML = `
+      <h4>${producto.modelo}</h4>
+      <div class="caja">
+        <div class="galeria">
+          ${producto.imagen ? `<img src="${producto.imagen}" alt="">` : ''}
+          ${producto.imagen2 ? `<img src="${producto.imagen2}" alt="">` : ''}
+          ${producto.imagen3 ? `<img src="${producto.imagen3}" alt="">` : ''}
+          ${producto.imagen4 ? `<img src="${producto.imagen4}" alt="">` : ''}
+        </div>
+      </div>
+      <div class="contenedorVistaPrevia">
+        ${producto.imagen ? `<img src="${producto.imagen}" alt="">` : ''}
+        ${producto.imagen2 ? `<img src="${producto.imagen2}" alt="">` : ''}
+        ${producto.imagen3 ? `<img src="${producto.imagen3}" alt="">` : ''}
+        ${producto.imagen4 ? `<img src="${producto.imagen4}" alt="">` : ''}
+      </div>
+      <div class="parrafos">
+        <p>Tallas disponibles: ${producto.talla}</p>
+        <p>Tela: ${producto.tela}</p>
+        <p>${producto.descripcion}</p>
+      </div>`;
+  
+    // Calcula el ancho del contenedor .galeria en función de la cantidad de imágenes
+    var numImagenes = 0;
+    if (producto.imagen) numImagenes++;
+    if (producto.imagen2) numImagenes++;
+    if (producto.imagen3) numImagenes++;
+    if (producto.imagen4) numImagenes++;
+  
+    // Aplica el ancho calculado al contenedor .galeria
+    var galeriaElement = productoElement.querySelector(".galeria");
+    galeriaElement.style.width = numImagenes * 100 + "%";
+  
+    prodcatadanza.appendChild(productoElement);
+  });
+  
